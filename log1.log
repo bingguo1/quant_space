@@ -1,0 +1,2404 @@
+ --> self.current_ts: 2017-10-01 00:00:00
+ --> self.current_ts: 2017-10-02 00:00:00
+ --> self.current_ts: 2017-10-03 00:00:00
+ --> self.current_ts: 2017-10-04 00:00:00
+ --> self.current_ts: 2017-10-05 00:00:00
+ --> self.current_ts: 2017-10-06 00:00:00
+ --> self.current_ts: 2017-10-07 00:00:00
+ --> self.current_ts: 2017-10-08 00:00:00
+ --> self.current_ts: 2017-10-09 00:00:00
+ --> self.current_ts: 2017-10-10 00:00:00
+ --> self.current_ts: 2017-10-11 00:00:00
+ --> self.current_ts: 2017-10-12 00:00:00
+ --> self.current_ts: 2017-10-13 00:00:00
+ --> self.current_ts: 2017-10-14 00:00:00
+ --> self.current_ts: 2017-10-15 00:00:00
+ --> self.current_ts: 2017-10-16 00:00:00
+ --> self.current_ts: 2017-10-17 00:00:00
+ --> self.current_ts: 2017-10-18 00:00:00
+Buy: 54.202085086864706
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+200 2017-10-18 2017-10-18  23.731333  ...  23.597245     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2017-10-19 00:00:00
+ --> self.current_ts: 2017-10-20 00:00:00
+Sell: 60.0100570122652
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+202 2017-10-20 2017-10-20  23.512667  ...  23.528656    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2017-10-21 00:00:00
+Sell: 59.94934859204177
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+202 2017-10-20 2017-10-20  23.512667  ...  23.528656    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2017-10-22 00:00:00
+Sell: 59.94934859204177
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+202 2017-10-20 2017-10-20  23.512667  ...  23.528656    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2017-10-23 00:00:00
+ --> self.current_ts: 2017-10-24 00:00:00
+ --> self.current_ts: 2017-10-25 00:00:00
+ --> self.current_ts: 2017-10-26 00:00:00
+ --> self.current_ts: 2017-10-27 00:00:00
+ --> self.current_ts: 2017-10-28 00:00:00
+ --> self.current_ts: 2017-10-29 00:00:00
+ --> self.current_ts: 2017-10-30 00:00:00
+ --> self.current_ts: 2017-10-31 00:00:00
+ --> self.current_ts: 2017-11-01 00:00:00
+ --> self.current_ts: 2017-11-02 00:00:00
+ --> self.current_ts: 2017-11-03 00:00:00
+ --> self.current_ts: 2017-11-04 00:00:00
+ --> self.current_ts: 2017-11-05 00:00:00
+ --> self.current_ts: 2017-11-06 00:00:00
+ --> self.current_ts: 2017-11-07 00:00:00
+ --> self.current_ts: 2017-11-08 00:00:00
+ --> self.current_ts: 2017-11-09 00:00:00
+ --> self.current_ts: 2017-11-10 00:00:00
+ --> self.current_ts: 2017-11-11 00:00:00
+ --> self.current_ts: 2017-11-12 00:00:00
+ --> self.current_ts: 2017-11-13 00:00:00
+ --> self.current_ts: 2017-11-14 00:00:00
+ --> self.current_ts: 2017-11-15 00:00:00
+ --> self.current_ts: 2017-11-16 00:00:00
+ --> self.current_ts: 2017-11-17 00:00:00
+ --> self.current_ts: 2017-11-18 00:00:00
+ --> self.current_ts: 2017-11-19 00:00:00
+ --> self.current_ts: 2017-11-20 00:00:00
+ --> self.current_ts: 2017-11-21 00:00:00
+ --> self.current_ts: 2017-11-22 00:00:00
+ --> self.current_ts: 2017-11-23 00:00:00
+ --> self.current_ts: 2017-11-24 00:00:00
+ --> self.current_ts: 2017-11-25 00:00:00
+ --> self.current_ts: 2017-11-26 00:00:00
+ --> self.current_ts: 2017-11-27 00:00:00
+ --> self.current_ts: 2017-11-28 00:00:00
+ --> self.current_ts: 2017-11-29 00:00:00
+ --> self.current_ts: 2017-11-30 00:00:00
+ --> self.current_ts: 2017-12-01 00:00:00
+ --> self.current_ts: 2017-12-02 00:00:00
+ --> self.current_ts: 2017-12-03 00:00:00
+ --> self.current_ts: 2017-12-04 00:00:00
+ --> self.current_ts: 2017-12-05 00:00:00
+ --> self.current_ts: 2017-12-06 00:00:00
+ --> self.current_ts: 2017-12-07 00:00:00
+ --> self.current_ts: 2017-12-08 00:00:00
+ --> self.current_ts: 2017-12-09 00:00:00
+ --> self.current_ts: 2017-12-10 00:00:00
+ --> self.current_ts: 2017-12-11 00:00:00
+Buy: 51.42882498208792
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+237 2017-12-11 2017-12-11  20.975332  ...  20.946942     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2017-12-12 00:00:00
+ --> self.current_ts: 2017-12-13 00:00:00
+ --> self.current_ts: 2017-12-14 00:00:00
+ --> self.current_ts: 2017-12-15 00:00:00
+ --> self.current_ts: 2017-12-16 00:00:00
+ --> self.current_ts: 2017-12-17 00:00:00
+ --> self.current_ts: 2017-12-18 00:00:00
+ --> self.current_ts: 2017-12-19 00:00:00
+ --> self.current_ts: 2017-12-20 00:00:00
+ --> self.current_ts: 2017-12-21 00:00:00
+ --> self.current_ts: 2017-12-22 00:00:00
+ --> self.current_ts: 2017-12-23 00:00:00
+ --> self.current_ts: 2017-12-24 00:00:00
+ --> self.current_ts: 2017-12-25 00:00:00
+ --> self.current_ts: 2017-12-26 00:00:00
+ --> self.current_ts: 2017-12-27 00:00:00
+ --> self.current_ts: 2017-12-28 00:00:00
+Sell: 53.288031052277894
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+249 2017-12-28 2017-12-28  20.783333  ...  21.534069    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2017-12-29 00:00:00
+ --> self.current_ts: 2017-12-30 00:00:00
+ --> self.current_ts: 2017-12-31 00:00:00
+ --> self.current_ts: 2018-01-01 00:00:00
+ --> self.current_ts: 2018-01-02 00:00:00
+ --> self.current_ts: 2018-01-03 00:00:00
+ --> self.current_ts: 2018-01-04 00:00:00
+ --> self.current_ts: 2018-01-05 00:00:00
+ --> self.current_ts: 2018-01-06 00:00:00
+ --> self.current_ts: 2018-01-07 00:00:00
+ --> self.current_ts: 2018-01-08 00:00:00
+Buy: 43.19240507796785
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+255 2018-01-08 2018-01-08  21.066668  ...  21.456052     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-01-09 00:00:00
+ --> self.current_ts: 2018-01-10 00:00:00
+ --> self.current_ts: 2018-01-11 00:00:00
+ --> self.current_ts: 2018-01-12 00:00:00
+ --> self.current_ts: 2018-01-13 00:00:00
+ --> self.current_ts: 2018-01-14 00:00:00
+ --> self.current_ts: 2018-01-15 00:00:00
+ --> self.current_ts: 2018-01-16 00:00:00
+ --> self.current_ts: 2018-01-17 00:00:00
+ --> self.current_ts: 2018-01-18 00:00:00
+ --> self.current_ts: 2018-01-19 00:00:00
+ --> self.current_ts: 2018-01-20 00:00:00
+ --> self.current_ts: 2018-01-21 00:00:00
+ --> self.current_ts: 2018-01-22 00:00:00
+ --> self.current_ts: 2018-01-23 00:00:00
+ --> self.current_ts: 2018-01-24 00:00:00
+ --> self.current_ts: 2018-01-25 00:00:00
+ --> self.current_ts: 2018-01-26 00:00:00
+ --> self.current_ts: 2018-01-27 00:00:00
+ --> self.current_ts: 2018-01-28 00:00:00
+ --> self.current_ts: 2018-01-29 00:00:00
+ --> self.current_ts: 2018-01-30 00:00:00
+ --> self.current_ts: 2018-01-31 00:00:00
+ --> self.current_ts: 2018-02-01 00:00:00
+ --> self.current_ts: 2018-02-02 00:00:00
+ --> self.current_ts: 2018-02-03 00:00:00
+ --> self.current_ts: 2018-02-04 00:00:00
+ --> self.current_ts: 2018-02-05 00:00:00
+ --> self.current_ts: 2018-02-06 00:00:00
+ --> self.current_ts: 2018-02-07 00:00:00
+ --> self.current_ts: 2018-02-08 00:00:00
+Sell: 39.12358083866856
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+277 2018-02-08 2018-02-08  22.887333  ...  22.562293    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-02-09 00:00:00
+ --> self.current_ts: 2018-02-10 00:00:00
+ --> self.current_ts: 2018-02-11 00:00:00
+ --> self.current_ts: 2018-02-12 00:00:00
+ --> self.current_ts: 2018-02-13 00:00:00
+ --> self.current_ts: 2018-02-14 00:00:00
+ --> self.current_ts: 2018-02-15 00:00:00
+ --> self.current_ts: 2018-02-16 00:00:00
+ --> self.current_ts: 2018-02-17 00:00:00
+ --> self.current_ts: 2018-02-18 00:00:00
+ --> self.current_ts: 2018-02-19 00:00:00
+ --> self.current_ts: 2018-02-20 00:00:00
+ --> self.current_ts: 2018-02-21 00:00:00
+ --> self.current_ts: 2018-02-22 00:00:00
+ --> self.current_ts: 2018-02-23 00:00:00
+Buy: 35.723261257003884
+     open_time close_time       Open  ...  ema_slow  uptrend  downtrend
+287 2018-02-23 2018-02-23  23.188667  ...  22.38023     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-02-24 00:00:00
+Buy: 35.69705540492944
+     open_time close_time       Open  ...  ema_slow  uptrend  downtrend
+287 2018-02-23 2018-02-23  23.188667  ...  22.38023     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-02-25 00:00:00
+Buy: 35.69705540492944
+     open_time close_time       Open  ...  ema_slow  uptrend  downtrend
+287 2018-02-23 2018-02-23  23.188667  ...  22.38023     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-02-26 00:00:00
+ --> self.current_ts: 2018-02-27 00:00:00
+ --> self.current_ts: 2018-02-28 00:00:00
+ --> self.current_ts: 2018-03-01 00:00:00
+ --> self.current_ts: 2018-03-02 00:00:00
+ --> self.current_ts: 2018-03-03 00:00:00
+ --> self.current_ts: 2018-03-04 00:00:00
+ --> self.current_ts: 2018-03-05 00:00:00
+ --> self.current_ts: 2018-03-06 00:00:00
+Sell: 35.34941011914554
+     open_time close_time   Open  ...   ema_slow  uptrend  downtrend
+294 2018-03-06 2018-03-06  22.25  ...  22.459367    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-03-07 00:00:00
+ --> self.current_ts: 2018-03-08 00:00:00
+ --> self.current_ts: 2018-03-09 00:00:00
+ --> self.current_ts: 2018-03-10 00:00:00
+ --> self.current_ts: 2018-03-11 00:00:00
+ --> self.current_ts: 2018-03-12 00:00:00
+ --> self.current_ts: 2018-03-13 00:00:00
+Buy: 44.627272934187424
+     open_time close_time       Open  ...  ema_slow  uptrend  downtrend
+299 2018-03-13 2018-03-13  21.907333  ...  22.43362     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-03-14 00:00:00
+Sell: 41.20081950346562
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-03-14 2018-03-14  22.450666  ...  22.370926    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-03-15 00:00:00
+ --> self.current_ts: 2018-03-16 00:00:00
+ --> self.current_ts: 2018-03-17 00:00:00
+ --> self.current_ts: 2018-03-18 00:00:00
+ --> self.current_ts: 2018-03-19 00:00:00
+ --> self.current_ts: 2018-03-20 00:00:00
+ --> self.current_ts: 2018-03-21 00:00:00
+ --> self.current_ts: 2018-03-22 00:00:00
+ --> self.current_ts: 2018-03-23 00:00:00
+ --> self.current_ts: 2018-03-24 00:00:00
+ --> self.current_ts: 2018-03-25 00:00:00
+ --> self.current_ts: 2018-03-26 00:00:00
+ --> self.current_ts: 2018-03-27 00:00:00
+ --> self.current_ts: 2018-03-28 00:00:00
+ --> self.current_ts: 2018-03-29 00:00:00
+ --> self.current_ts: 2018-03-30 00:00:00
+ --> self.current_ts: 2018-03-31 00:00:00
+ --> self.current_ts: 2018-04-01 00:00:00
+ --> self.current_ts: 2018-04-02 00:00:00
+ --> self.current_ts: 2018-04-03 00:00:00
+ --> self.current_ts: 2018-04-04 00:00:00
+ --> self.current_ts: 2018-04-05 00:00:00
+ --> self.current_ts: 2018-04-06 00:00:00
+ --> self.current_ts: 2018-04-07 00:00:00
+ --> self.current_ts: 2018-04-08 00:00:00
+ --> self.current_ts: 2018-04-09 00:00:00
+ --> self.current_ts: 2018-04-10 00:00:00
+ --> self.current_ts: 2018-04-11 00:00:00
+ --> self.current_ts: 2018-04-12 00:00:00
+ --> self.current_ts: 2018-04-13 00:00:00
+ --> self.current_ts: 2018-04-14 00:00:00
+ --> self.current_ts: 2018-04-15 00:00:00
+ --> self.current_ts: 2018-04-16 00:00:00
+ --> self.current_ts: 2018-04-17 00:00:00
+ --> self.current_ts: 2018-04-18 00:00:00
+ --> self.current_ts: 2018-04-19 00:00:00
+ --> self.current_ts: 2018-04-20 00:00:00
+ --> self.current_ts: 2018-04-21 00:00:00
+ --> self.current_ts: 2018-04-22 00:00:00
+ --> self.current_ts: 2018-04-23 00:00:00
+ --> self.current_ts: 2018-04-24 00:00:00
+ --> self.current_ts: 2018-04-25 00:00:00
+ --> self.current_ts: 2018-04-26 00:00:00
+ --> self.current_ts: 2018-04-27 00:00:00
+ --> self.current_ts: 2018-04-28 00:00:00
+ --> self.current_ts: 2018-04-29 00:00:00
+ --> self.current_ts: 2018-04-30 00:00:00
+ --> self.current_ts: 2018-05-01 00:00:00
+ --> self.current_ts: 2018-05-02 00:00:00
+ --> self.current_ts: 2018-05-03 00:00:00
+ --> self.current_ts: 2018-05-04 00:00:00
+ --> self.current_ts: 2018-05-05 00:00:00
+ --> self.current_ts: 2018-05-06 00:00:00
+ --> self.current_ts: 2018-05-07 00:00:00
+Buy: 37.11699683708499
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-05-07 2018-05-07  19.833332  ...  19.598949     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-05-08 00:00:00
+ --> self.current_ts: 2018-05-09 00:00:00
+ --> self.current_ts: 2018-05-10 00:00:00
+ --> self.current_ts: 2018-05-11 00:00:00
+ --> self.current_ts: 2018-05-12 00:00:00
+ --> self.current_ts: 2018-05-13 00:00:00
+ --> self.current_ts: 2018-05-14 00:00:00
+ --> self.current_ts: 2018-05-15 00:00:00
+ --> self.current_ts: 2018-05-16 00:00:00
+Sell: 41.67806170444027
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-05-16 2018-05-16  18.922001  ...  19.642078    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-05-17 00:00:00
+ --> self.current_ts: 2018-05-18 00:00:00
+ --> self.current_ts: 2018-05-19 00:00:00
+ --> self.current_ts: 2018-05-20 00:00:00
+ --> self.current_ts: 2018-05-21 00:00:00
+ --> self.current_ts: 2018-05-22 00:00:00
+ --> self.current_ts: 2018-05-23 00:00:00
+ --> self.current_ts: 2018-05-24 00:00:00
+ --> self.current_ts: 2018-05-25 00:00:00
+ --> self.current_ts: 2018-05-26 00:00:00
+ --> self.current_ts: 2018-05-27 00:00:00
+ --> self.current_ts: 2018-05-28 00:00:00
+ --> self.current_ts: 2018-05-29 00:00:00
+ --> self.current_ts: 2018-05-30 00:00:00
+ --> self.current_ts: 2018-05-31 00:00:00
+ --> self.current_ts: 2018-06-01 00:00:00
+ --> self.current_ts: 2018-06-02 00:00:00
+ --> self.current_ts: 2018-06-03 00:00:00
+ --> self.current_ts: 2018-06-04 00:00:00
+ --> self.current_ts: 2018-06-05 00:00:00
+ --> self.current_ts: 2018-06-06 00:00:00
+Buy: 33.437083600211125
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-06-06 2018-06-06  20.033333  ...  19.430026     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-06-07 00:00:00
+ --> self.current_ts: 2018-06-08 00:00:00
+ --> self.current_ts: 2018-06-09 00:00:00
+ --> self.current_ts: 2018-06-10 00:00:00
+ --> self.current_ts: 2018-06-11 00:00:00
+ --> self.current_ts: 2018-06-12 00:00:00
+ --> self.current_ts: 2018-06-13 00:00:00
+ --> self.current_ts: 2018-06-14 00:00:00
+ --> self.current_ts: 2018-06-15 00:00:00
+ --> self.current_ts: 2018-06-16 00:00:00
+ --> self.current_ts: 2018-06-17 00:00:00
+ --> self.current_ts: 2018-06-18 00:00:00
+ --> self.current_ts: 2018-06-19 00:00:00
+ --> self.current_ts: 2018-06-20 00:00:00
+ --> self.current_ts: 2018-06-21 00:00:00
+ --> self.current_ts: 2018-06-22 00:00:00
+ --> self.current_ts: 2018-06-23 00:00:00
+ --> self.current_ts: 2018-06-24 00:00:00
+ --> self.current_ts: 2018-06-25 00:00:00
+ --> self.current_ts: 2018-06-26 00:00:00
+ --> self.current_ts: 2018-06-27 00:00:00
+ --> self.current_ts: 2018-06-28 00:00:00
+ --> self.current_ts: 2018-06-29 00:00:00
+ --> self.current_ts: 2018-06-30 00:00:00
+ --> self.current_ts: 2018-07-01 00:00:00
+ --> self.current_ts: 2018-07-02 00:00:00
+ --> self.current_ts: 2018-07-03 00:00:00
+ --> self.current_ts: 2018-07-04 00:00:00
+ --> self.current_ts: 2018-07-05 00:00:00
+ --> self.current_ts: 2018-07-06 00:00:00
+Sell: 31.35493395611205
+     open_time close_time   Open  ...   ema_slow  uptrend  downtrend
+299 2018-07-06 2018-07-06  20.33  ...  21.912701    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-07-07 00:00:00
+Sell: 31.354062003190283
+     open_time close_time   Open  ...   ema_slow  uptrend  downtrend
+299 2018-07-06 2018-07-06  20.33  ...  21.912701    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-07-08 00:00:00
+Sell: 31.354062003190283
+     open_time close_time   Open  ...   ema_slow  uptrend  downtrend
+299 2018-07-06 2018-07-06  20.33  ...  21.912701    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-07-09 00:00:00
+ --> self.current_ts: 2018-07-10 00:00:00
+ --> self.current_ts: 2018-07-11 00:00:00
+ --> self.current_ts: 2018-07-12 00:00:00
+ --> self.current_ts: 2018-07-13 00:00:00
+ --> self.current_ts: 2018-07-14 00:00:00
+ --> self.current_ts: 2018-07-15 00:00:00
+ --> self.current_ts: 2018-07-16 00:00:00
+ --> self.current_ts: 2018-07-17 00:00:00
+ --> self.current_ts: 2018-07-18 00:00:00
+ --> self.current_ts: 2018-07-19 00:00:00
+ --> self.current_ts: 2018-07-20 00:00:00
+ --> self.current_ts: 2018-07-21 00:00:00
+ --> self.current_ts: 2018-07-22 00:00:00
+ --> self.current_ts: 2018-07-23 00:00:00
+ --> self.current_ts: 2018-07-24 00:00:00
+ --> self.current_ts: 2018-07-25 00:00:00
+ --> self.current_ts: 2018-07-26 00:00:00
+ --> self.current_ts: 2018-07-27 00:00:00
+ --> self.current_ts: 2018-07-28 00:00:00
+ --> self.current_ts: 2018-07-29 00:00:00
+ --> self.current_ts: 2018-07-30 00:00:00
+ --> self.current_ts: 2018-07-31 00:00:00
+ --> self.current_ts: 2018-08-01 00:00:00
+ --> self.current_ts: 2018-08-02 00:00:00
+ --> self.current_ts: 2018-08-03 00:00:00
+Buy: 23.10906355023001
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-08-03 2018-08-03  23.187332  ...  21.129555     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-08-04 00:00:00
+Buy: 23.119042694005167
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-08-03 2018-08-03  23.187332  ...  21.129555     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-08-05 00:00:00
+Buy: 23.119042694005163
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-08-03 2018-08-03  23.187332  ...  21.129555     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-08-06 00:00:00
+ --> self.current_ts: 2018-08-07 00:00:00
+ --> self.current_ts: 2018-08-08 00:00:00
+ --> self.current_ts: 2018-08-09 00:00:00
+ --> self.current_ts: 2018-08-10 00:00:00
+ --> self.current_ts: 2018-08-11 00:00:00
+ --> self.current_ts: 2018-08-12 00:00:00
+ --> self.current_ts: 2018-08-13 00:00:00
+ --> self.current_ts: 2018-08-14 00:00:00
+ --> self.current_ts: 2018-08-15 00:00:00
+ --> self.current_ts: 2018-08-16 00:00:00
+ --> self.current_ts: 2018-08-17 00:00:00
+ --> self.current_ts: 2018-08-18 00:00:00
+ --> self.current_ts: 2018-08-19 00:00:00
+ --> self.current_ts: 2018-08-20 00:00:00
+Sell: 18.2296915900639
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-08-20 2018-08-20  19.446667  ...  22.109165    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-08-21 00:00:00
+ --> self.current_ts: 2018-08-22 00:00:00
+ --> self.current_ts: 2018-08-23 00:00:00
+ --> self.current_ts: 2018-08-24 00:00:00
+ --> self.current_ts: 2018-08-25 00:00:00
+ --> self.current_ts: 2018-08-26 00:00:00
+ --> self.current_ts: 2018-08-27 00:00:00
+ --> self.current_ts: 2018-08-28 00:00:00
+ --> self.current_ts: 2018-08-29 00:00:00
+ --> self.current_ts: 2018-08-30 00:00:00
+ --> self.current_ts: 2018-08-31 00:00:00
+ --> self.current_ts: 2018-09-01 00:00:00
+ --> self.current_ts: 2018-09-02 00:00:00
+ --> self.current_ts: 2018-09-03 00:00:00
+ --> self.current_ts: 2018-09-04 00:00:00
+ --> self.current_ts: 2018-09-05 00:00:00
+ --> self.current_ts: 2018-09-06 00:00:00
+ --> self.current_ts: 2018-09-07 00:00:00
+ --> self.current_ts: 2018-09-08 00:00:00
+ --> self.current_ts: 2018-09-09 00:00:00
+ --> self.current_ts: 2018-09-10 00:00:00
+ --> self.current_ts: 2018-09-11 00:00:00
+ --> self.current_ts: 2018-09-12 00:00:00
+ --> self.current_ts: 2018-09-13 00:00:00
+ --> self.current_ts: 2018-09-14 00:00:00
+ --> self.current_ts: 2018-09-15 00:00:00
+ --> self.current_ts: 2018-09-16 00:00:00
+ --> self.current_ts: 2018-09-17 00:00:00
+ --> self.current_ts: 2018-09-18 00:00:00
+ --> self.current_ts: 2018-09-19 00:00:00
+ --> self.current_ts: 2018-09-20 00:00:00
+ --> self.current_ts: 2018-09-21 00:00:00
+ --> self.current_ts: 2018-09-22 00:00:00
+ --> self.current_ts: 2018-09-23 00:00:00
+ --> self.current_ts: 2018-09-24 00:00:00
+ --> self.current_ts: 2018-09-25 00:00:00
+ --> self.current_ts: 2018-09-26 00:00:00
+ --> self.current_ts: 2018-09-27 00:00:00
+Buy: 29.814200573242
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-09-27 2018-09-27  20.860001  ...  20.008254     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-09-28 00:00:00
+Sell: 21.611953379068805
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-09-28 2018-09-28  18.017332  ...  19.783785    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-09-29 00:00:00
+Sell: 21.518516551089593
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-09-28 2018-09-28  18.017332  ...  19.783785    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-09-30 00:00:00
+Sell: 21.51851655108959
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-09-28 2018-09-28  18.017332  ...  19.783785    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-10-01 00:00:00
+ --> self.current_ts: 2018-10-02 00:00:00
+ --> self.current_ts: 2018-10-03 00:00:00
+ --> self.current_ts: 2018-10-04 00:00:00
+ --> self.current_ts: 2018-10-05 00:00:00
+ --> self.current_ts: 2018-10-06 00:00:00
+ --> self.current_ts: 2018-10-07 00:00:00
+ --> self.current_ts: 2018-10-08 00:00:00
+ --> self.current_ts: 2018-10-09 00:00:00
+ --> self.current_ts: 2018-10-10 00:00:00
+ --> self.current_ts: 2018-10-11 00:00:00
+ --> self.current_ts: 2018-10-12 00:00:00
+ --> self.current_ts: 2018-10-13 00:00:00
+ --> self.current_ts: 2018-10-14 00:00:00
+ --> self.current_ts: 2018-10-15 00:00:00
+ --> self.current_ts: 2018-10-16 00:00:00
+ --> self.current_ts: 2018-10-17 00:00:00
+ --> self.current_ts: 2018-10-18 00:00:00
+ --> self.current_ts: 2018-10-19 00:00:00
+ --> self.current_ts: 2018-10-20 00:00:00
+ --> self.current_ts: 2018-10-21 00:00:00
+ --> self.current_ts: 2018-10-22 00:00:00
+ --> self.current_ts: 2018-10-23 00:00:00
+ --> self.current_ts: 2018-10-24 00:00:00
+ --> self.current_ts: 2018-10-25 00:00:00
+Buy: 13.839277060637658
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2018-10-25 2018-10-25  21.148001  ...  18.640686     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-10-26 00:00:00
+ --> self.current_ts: 2018-10-27 00:00:00
+ --> self.current_ts: 2018-10-28 00:00:00
+ --> self.current_ts: 2018-10-29 00:00:00
+ --> self.current_ts: 2018-10-30 00:00:00
+ --> self.current_ts: 2018-10-31 00:00:00
+ --> self.current_ts: 2018-11-01 00:00:00
+ --> self.current_ts: 2018-11-02 00:00:00
+ --> self.current_ts: 2018-11-03 00:00:00
+ --> self.current_ts: 2018-11-04 00:00:00
+ --> self.current_ts: 2018-11-05 00:00:00
+ --> self.current_ts: 2018-11-06 00:00:00
+ --> self.current_ts: 2018-11-07 00:00:00
+ --> self.current_ts: 2018-11-08 00:00:00
+ --> self.current_ts: 2018-11-09 00:00:00
+ --> self.current_ts: 2018-11-10 00:00:00
+ --> self.current_ts: 2018-11-11 00:00:00
+ --> self.current_ts: 2018-11-12 00:00:00
+ --> self.current_ts: 2018-11-13 00:00:00
+ --> self.current_ts: 2018-11-14 00:00:00
+ --> self.current_ts: 2018-11-15 00:00:00
+ --> self.current_ts: 2018-11-16 00:00:00
+ --> self.current_ts: 2018-11-17 00:00:00
+ --> self.current_ts: 2018-11-18 00:00:00
+ --> self.current_ts: 2018-11-19 00:00:00
+ --> self.current_ts: 2018-11-20 00:00:00
+ --> self.current_ts: 2018-11-21 00:00:00
+ --> self.current_ts: 2018-11-22 00:00:00
+ --> self.current_ts: 2018-11-23 00:00:00
+ --> self.current_ts: 2018-11-24 00:00:00
+ --> self.current_ts: 2018-11-25 00:00:00
+ --> self.current_ts: 2018-11-26 00:00:00
+ --> self.current_ts: 2018-11-27 00:00:00
+ --> self.current_ts: 2018-11-28 00:00:00
+ --> self.current_ts: 2018-11-29 00:00:00
+ --> self.current_ts: 2018-11-30 00:00:00
+ --> self.current_ts: 2018-12-01 00:00:00
+ --> self.current_ts: 2018-12-02 00:00:00
+ --> self.current_ts: 2018-12-03 00:00:00
+ --> self.current_ts: 2018-12-04 00:00:00
+ --> self.current_ts: 2018-12-05 00:00:00
+ --> self.current_ts: 2018-12-06 00:00:00
+ --> self.current_ts: 2018-12-07 00:00:00
+ --> self.current_ts: 2018-12-08 00:00:00
+ --> self.current_ts: 2018-12-09 00:00:00
+ --> self.current_ts: 2018-12-10 00:00:00
+ --> self.current_ts: 2018-12-11 00:00:00
+ --> self.current_ts: 2018-12-12 00:00:00
+ --> self.current_ts: 2018-12-13 00:00:00
+ --> self.current_ts: 2018-12-14 00:00:00
+ --> self.current_ts: 2018-12-15 00:00:00
+ --> self.current_ts: 2018-12-16 00:00:00
+ --> self.current_ts: 2018-12-17 00:00:00
+ --> self.current_ts: 2018-12-18 00:00:00
+ --> self.current_ts: 2018-12-19 00:00:00
+ --> self.current_ts: 2018-12-20 00:00:00
+Sell: 33.431008567573514
+     open_time close_time       Open  ...  ema_slow  uptrend  downtrend
+299 2018-12-20 2018-12-20  21.803333  ...   23.1477    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2018-12-21 00:00:00
+ --> self.current_ts: 2018-12-22 00:00:00
+ --> self.current_ts: 2018-12-23 00:00:00
+ --> self.current_ts: 2018-12-24 00:00:00
+ --> self.current_ts: 2018-12-25 00:00:00
+ --> self.current_ts: 2018-12-26 00:00:00
+ --> self.current_ts: 2018-12-27 00:00:00
+ --> self.current_ts: 2018-12-28 00:00:00
+ --> self.current_ts: 2018-12-29 00:00:00
+ --> self.current_ts: 2018-12-30 00:00:00
+ --> self.current_ts: 2018-12-31 00:00:00
+ --> self.current_ts: 2019-01-01 00:00:00
+ --> self.current_ts: 2019-01-02 00:00:00
+ --> self.current_ts: 2019-01-03 00:00:00
+ --> self.current_ts: 2019-01-04 00:00:00
+ --> self.current_ts: 2019-01-05 00:00:00
+ --> self.current_ts: 2019-01-06 00:00:00
+ --> self.current_ts: 2019-01-07 00:00:00
+ --> self.current_ts: 2019-01-08 00:00:00
+ --> self.current_ts: 2019-01-09 00:00:00
+ --> self.current_ts: 2019-01-10 00:00:00
+ --> self.current_ts: 2019-01-11 00:00:00
+Buy: 20.691636295972195
+     open_time close_time    Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-11 2019-01-11  22.806  ...  22.249145     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-12 00:00:00
+Buy: 20.686288098256686
+     open_time close_time    Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-11 2019-01-11  22.806  ...  22.249145     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-13 00:00:00
+Buy: 20.686288098256686
+     open_time close_time    Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-11 2019-01-11  22.806  ...  22.249145     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-14 00:00:00
+ --> self.current_ts: 2019-01-15 00:00:00
+ --> self.current_ts: 2019-01-16 00:00:00
+ --> self.current_ts: 2019-01-17 00:00:00
+ --> self.current_ts: 2019-01-18 00:00:00
+Sell: 17.889748194233636
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-18 2019-01-18  21.533333  ...  22.244356    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-19 00:00:00
+Sell: 17.736338967698703
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-18 2019-01-18  21.533333  ...  22.244356    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-20 00:00:00
+Sell: 17.736338967698703
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-18 2019-01-18  21.533333  ...  22.244356    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-21 00:00:00
+Sell: 17.736338967698703
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-01-18 2019-01-18  21.533333  ...  22.244356    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-01-22 00:00:00
+ --> self.current_ts: 2019-01-23 00:00:00
+ --> self.current_ts: 2019-01-24 00:00:00
+ --> self.current_ts: 2019-01-25 00:00:00
+ --> self.current_ts: 2019-01-26 00:00:00
+ --> self.current_ts: 2019-01-27 00:00:00
+ --> self.current_ts: 2019-01-28 00:00:00
+ --> self.current_ts: 2019-01-29 00:00:00
+ --> self.current_ts: 2019-01-30 00:00:00
+ --> self.current_ts: 2019-01-31 00:00:00
+ --> self.current_ts: 2019-02-01 00:00:00
+ --> self.current_ts: 2019-02-02 00:00:00
+ --> self.current_ts: 2019-02-03 00:00:00
+ --> self.current_ts: 2019-02-04 00:00:00
+ --> self.current_ts: 2019-02-05 00:00:00
+ --> self.current_ts: 2019-02-06 00:00:00
+ --> self.current_ts: 2019-02-07 00:00:00
+ --> self.current_ts: 2019-02-08 00:00:00
+ --> self.current_ts: 2019-02-09 00:00:00
+ --> self.current_ts: 2019-02-10 00:00:00
+ --> self.current_ts: 2019-02-11 00:00:00
+ --> self.current_ts: 2019-02-12 00:00:00
+ --> self.current_ts: 2019-02-13 00:00:00
+ --> self.current_ts: 2019-02-14 00:00:00
+ --> self.current_ts: 2019-02-15 00:00:00
+ --> self.current_ts: 2019-02-16 00:00:00
+ --> self.current_ts: 2019-02-17 00:00:00
+ --> self.current_ts: 2019-02-18 00:00:00
+ --> self.current_ts: 2019-02-19 00:00:00
+ --> self.current_ts: 2019-02-20 00:00:00
+ --> self.current_ts: 2019-02-21 00:00:00
+ --> self.current_ts: 2019-02-22 00:00:00
+ --> self.current_ts: 2019-02-23 00:00:00
+ --> self.current_ts: 2019-02-24 00:00:00
+ --> self.current_ts: 2019-02-25 00:00:00
+ --> self.current_ts: 2019-02-26 00:00:00
+ --> self.current_ts: 2019-02-27 00:00:00
+ --> self.current_ts: 2019-02-28 00:00:00
+ --> self.current_ts: 2019-03-01 00:00:00
+ --> self.current_ts: 2019-03-02 00:00:00
+ --> self.current_ts: 2019-03-03 00:00:00
+ --> self.current_ts: 2019-03-04 00:00:00
+ --> self.current_ts: 2019-03-05 00:00:00
+ --> self.current_ts: 2019-03-06 00:00:00
+ --> self.current_ts: 2019-03-07 00:00:00
+ --> self.current_ts: 2019-03-08 00:00:00
+ --> self.current_ts: 2019-03-09 00:00:00
+ --> self.current_ts: 2019-03-10 00:00:00
+ --> self.current_ts: 2019-03-11 00:00:00
+ --> self.current_ts: 2019-03-12 00:00:00
+ --> self.current_ts: 2019-03-13 00:00:00
+ --> self.current_ts: 2019-03-14 00:00:00
+ --> self.current_ts: 2019-03-15 00:00:00
+ --> self.current_ts: 2019-03-16 00:00:00
+ --> self.current_ts: 2019-03-17 00:00:00
+ --> self.current_ts: 2019-03-18 00:00:00
+ --> self.current_ts: 2019-03-19 00:00:00
+ --> self.current_ts: 2019-03-20 00:00:00
+ --> self.current_ts: 2019-03-21 00:00:00
+ --> self.current_ts: 2019-03-22 00:00:00
+ --> self.current_ts: 2019-03-23 00:00:00
+ --> self.current_ts: 2019-03-24 00:00:00
+ --> self.current_ts: 2019-03-25 00:00:00
+ --> self.current_ts: 2019-03-26 00:00:00
+ --> self.current_ts: 2019-03-27 00:00:00
+ --> self.current_ts: 2019-03-28 00:00:00
+ --> self.current_ts: 2019-03-29 00:00:00
+ --> self.current_ts: 2019-03-30 00:00:00
+ --> self.current_ts: 2019-03-31 00:00:00
+ --> self.current_ts: 2019-04-01 00:00:00
+ --> self.current_ts: 2019-04-02 00:00:00
+ --> self.current_ts: 2019-04-03 00:00:00
+ --> self.current_ts: 2019-04-04 00:00:00
+ --> self.current_ts: 2019-04-05 00:00:00
+ --> self.current_ts: 2019-04-06 00:00:00
+ --> self.current_ts: 2019-04-07 00:00:00
+ --> self.current_ts: 2019-04-08 00:00:00
+ --> self.current_ts: 2019-04-09 00:00:00
+ --> self.current_ts: 2019-04-10 00:00:00
+ --> self.current_ts: 2019-04-11 00:00:00
+ --> self.current_ts: 2019-04-12 00:00:00
+ --> self.current_ts: 2019-04-13 00:00:00
+ --> self.current_ts: 2019-04-14 00:00:00
+ --> self.current_ts: 2019-04-15 00:00:00
+ --> self.current_ts: 2019-04-16 00:00:00
+ --> self.current_ts: 2019-04-17 00:00:00
+ --> self.current_ts: 2019-04-18 00:00:00
+ --> self.current_ts: 2019-04-19 00:00:00
+ --> self.current_ts: 2019-04-20 00:00:00
+ --> self.current_ts: 2019-04-21 00:00:00
+ --> self.current_ts: 2019-04-22 00:00:00
+ --> self.current_ts: 2019-04-23 00:00:00
+ --> self.current_ts: 2019-04-24 00:00:00
+ --> self.current_ts: 2019-04-25 00:00:00
+ --> self.current_ts: 2019-04-26 00:00:00
+ --> self.current_ts: 2019-04-27 00:00:00
+ --> self.current_ts: 2019-04-28 00:00:00
+ --> self.current_ts: 2019-04-29 00:00:00
+ --> self.current_ts: 2019-04-30 00:00:00
+ --> self.current_ts: 2019-05-01 00:00:00
+ --> self.current_ts: 2019-05-02 00:00:00
+ --> self.current_ts: 2019-05-03 00:00:00
+ --> self.current_ts: 2019-05-04 00:00:00
+ --> self.current_ts: 2019-05-05 00:00:00
+ --> self.current_ts: 2019-05-06 00:00:00
+ --> self.current_ts: 2019-05-07 00:00:00
+ --> self.current_ts: 2019-05-08 00:00:00
+ --> self.current_ts: 2019-05-09 00:00:00
+ --> self.current_ts: 2019-05-10 00:00:00
+ --> self.current_ts: 2019-05-11 00:00:00
+ --> self.current_ts: 2019-05-12 00:00:00
+ --> self.current_ts: 2019-05-13 00:00:00
+ --> self.current_ts: 2019-05-14 00:00:00
+ --> self.current_ts: 2019-05-15 00:00:00
+ --> self.current_ts: 2019-05-16 00:00:00
+ --> self.current_ts: 2019-05-17 00:00:00
+ --> self.current_ts: 2019-05-18 00:00:00
+ --> self.current_ts: 2019-05-19 00:00:00
+ --> self.current_ts: 2019-05-20 00:00:00
+ --> self.current_ts: 2019-05-21 00:00:00
+ --> self.current_ts: 2019-05-22 00:00:00
+ --> self.current_ts: 2019-05-23 00:00:00
+ --> self.current_ts: 2019-05-24 00:00:00
+ --> self.current_ts: 2019-05-25 00:00:00
+ --> self.current_ts: 2019-05-26 00:00:00
+ --> self.current_ts: 2019-05-27 00:00:00
+ --> self.current_ts: 2019-05-28 00:00:00
+ --> self.current_ts: 2019-05-29 00:00:00
+ --> self.current_ts: 2019-05-30 00:00:00
+ --> self.current_ts: 2019-05-31 00:00:00
+ --> self.current_ts: 2019-06-01 00:00:00
+ --> self.current_ts: 2019-06-02 00:00:00
+ --> self.current_ts: 2019-06-03 00:00:00
+ --> self.current_ts: 2019-06-04 00:00:00
+ --> self.current_ts: 2019-06-05 00:00:00
+ --> self.current_ts: 2019-06-06 00:00:00
+ --> self.current_ts: 2019-06-07 00:00:00
+ --> self.current_ts: 2019-06-08 00:00:00
+ --> self.current_ts: 2019-06-09 00:00:00
+ --> self.current_ts: 2019-06-10 00:00:00
+ --> self.current_ts: 2019-06-11 00:00:00
+ --> self.current_ts: 2019-06-12 00:00:00
+ --> self.current_ts: 2019-06-13 00:00:00
+ --> self.current_ts: 2019-06-14 00:00:00
+ --> self.current_ts: 2019-06-15 00:00:00
+ --> self.current_ts: 2019-06-16 00:00:00
+ --> self.current_ts: 2019-06-17 00:00:00
+Buy: 28.774702758642967
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-06-17 2019-06-17  14.365333  ...  14.044644     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-06-18 00:00:00
+ --> self.current_ts: 2019-06-19 00:00:00
+ --> self.current_ts: 2019-06-20 00:00:00
+ --> self.current_ts: 2019-06-21 00:00:00
+ --> self.current_ts: 2019-06-22 00:00:00
+ --> self.current_ts: 2019-06-23 00:00:00
+ --> self.current_ts: 2019-06-24 00:00:00
+ --> self.current_ts: 2019-06-25 00:00:00
+ --> self.current_ts: 2019-06-26 00:00:00
+ --> self.current_ts: 2019-06-27 00:00:00
+ --> self.current_ts: 2019-06-28 00:00:00
+ --> self.current_ts: 2019-06-29 00:00:00
+ --> self.current_ts: 2019-06-30 00:00:00
+ --> self.current_ts: 2019-07-01 00:00:00
+ --> self.current_ts: 2019-07-02 00:00:00
+ --> self.current_ts: 2019-07-03 00:00:00
+ --> self.current_ts: 2019-07-04 00:00:00
+ --> self.current_ts: 2019-07-05 00:00:00
+ --> self.current_ts: 2019-07-06 00:00:00
+ --> self.current_ts: 2019-07-07 00:00:00
+ --> self.current_ts: 2019-07-08 00:00:00
+ --> self.current_ts: 2019-07-09 00:00:00
+ --> self.current_ts: 2019-07-10 00:00:00
+ --> self.current_ts: 2019-07-11 00:00:00
+ --> self.current_ts: 2019-07-12 00:00:00
+ --> self.current_ts: 2019-07-13 00:00:00
+ --> self.current_ts: 2019-07-14 00:00:00
+ --> self.current_ts: 2019-07-15 00:00:00
+ --> self.current_ts: 2019-07-16 00:00:00
+ --> self.current_ts: 2019-07-17 00:00:00
+ --> self.current_ts: 2019-07-18 00:00:00
+ --> self.current_ts: 2019-07-19 00:00:00
+ --> self.current_ts: 2019-07-20 00:00:00
+ --> self.current_ts: 2019-07-21 00:00:00
+ --> self.current_ts: 2019-07-22 00:00:00
+ --> self.current_ts: 2019-07-23 00:00:00
+ --> self.current_ts: 2019-07-24 00:00:00
+ --> self.current_ts: 2019-07-25 00:00:00
+ --> self.current_ts: 2019-07-26 00:00:00
+ --> self.current_ts: 2019-07-27 00:00:00
+ --> self.current_ts: 2019-07-28 00:00:00
+ --> self.current_ts: 2019-07-29 00:00:00
+ --> self.current_ts: 2019-07-30 00:00:00
+ --> self.current_ts: 2019-07-31 00:00:00
+ --> self.current_ts: 2019-08-01 00:00:00
+ --> self.current_ts: 2019-08-02 00:00:00
+ --> self.current_ts: 2019-08-03 00:00:00
+ --> self.current_ts: 2019-08-04 00:00:00
+ --> self.current_ts: 2019-08-05 00:00:00
+Sell: 25.954506928287177
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-08-05 2019-08-05  15.306667  ...  15.910578    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-08-06 00:00:00
+ --> self.current_ts: 2019-08-07 00:00:00
+ --> self.current_ts: 2019-08-08 00:00:00
+ --> self.current_ts: 2019-08-09 00:00:00
+ --> self.current_ts: 2019-08-10 00:00:00
+ --> self.current_ts: 2019-08-11 00:00:00
+ --> self.current_ts: 2019-08-12 00:00:00
+ --> self.current_ts: 2019-08-13 00:00:00
+ --> self.current_ts: 2019-08-14 00:00:00
+ --> self.current_ts: 2019-08-15 00:00:00
+ --> self.current_ts: 2019-08-16 00:00:00
+ --> self.current_ts: 2019-08-17 00:00:00
+ --> self.current_ts: 2019-08-18 00:00:00
+ --> self.current_ts: 2019-08-19 00:00:00
+ --> self.current_ts: 2019-08-20 00:00:00
+ --> self.current_ts: 2019-08-21 00:00:00
+ --> self.current_ts: 2019-08-22 00:00:00
+ --> self.current_ts: 2019-08-23 00:00:00
+ --> self.current_ts: 2019-08-24 00:00:00
+ --> self.current_ts: 2019-08-25 00:00:00
+ --> self.current_ts: 2019-08-26 00:00:00
+ --> self.current_ts: 2019-08-27 00:00:00
+ --> self.current_ts: 2019-08-28 00:00:00
+ --> self.current_ts: 2019-08-29 00:00:00
+ --> self.current_ts: 2019-08-30 00:00:00
+ --> self.current_ts: 2019-08-31 00:00:00
+ --> self.current_ts: 2019-09-01 00:00:00
+ --> self.current_ts: 2019-09-02 00:00:00
+ --> self.current_ts: 2019-09-03 00:00:00
+ --> self.current_ts: 2019-09-04 00:00:00
+ --> self.current_ts: 2019-09-05 00:00:00
+ --> self.current_ts: 2019-09-06 00:00:00
+ --> self.current_ts: 2019-09-07 00:00:00
+ --> self.current_ts: 2019-09-08 00:00:00
+ --> self.current_ts: 2019-09-09 00:00:00
+ --> self.current_ts: 2019-09-10 00:00:00
+Buy: 36.24104214543501
+     open_time close_time       Open  ...   ema_slow  uptrend  downtrend
+299 2019-09-10 2019-09-10  15.386667  ...  15.088162     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2019-09-11 00:00:00
+ --> self.current_ts: 2019-09-12 00:00:00
+ --> self.current_ts: 2019-09-13 00:00:00
+ --> self.current_ts: 2019-09-14 00:00:00
+ --> self.current_ts: 2019-09-15 00:00:00
+ --> self.current_ts: 2019-09-16 00:00:00
+ --> self.current_ts: 2019-09-17 00:00:00
+ --> self.current_ts: 2019-09-18 00:00:00
+ --> self.current_ts: 2019-09-19 00:00:00
+ --> self.current_ts: 2019-09-20 00:00:00
+ --> self.current_ts: 2019-09-21 00:00:00
+ --> self.current_ts: 2019-09-22 00:00:00
+ --> self.current_ts: 2019-09-23 00:00:00
+ --> self.current_ts: 2019-09-24 00:00:00
+ --> self.current_ts: 2019-09-25 00:00:00
+ --> self.current_ts: 2019-09-26 00:00:00
+ --> self.current_ts: 2019-09-27 00:00:00
+ --> self.current_ts: 2019-09-28 00:00:00
+ --> self.current_ts: 2019-09-29 00:00:00
+ --> self.current_ts: 2019-09-30 00:00:00
+ --> self.current_ts: 2019-10-01 00:00:00
+ --> self.current_ts: 2019-10-02 00:00:00
+ --> self.current_ts: 2019-10-03 00:00:00
+ --> self.current_ts: 2019-10-04 00:00:00
+ --> self.current_ts: 2019-10-05 00:00:00
+ --> self.current_ts: 2019-10-06 00:00:00
+ --> self.current_ts: 2019-10-07 00:00:00
+ --> self.current_ts: 2019-10-08 00:00:00
+ --> self.current_ts: 2019-10-09 00:00:00
+ --> self.current_ts: 2019-10-10 00:00:00
+ --> self.current_ts: 2019-10-11 00:00:00
+ --> self.current_ts: 2019-10-12 00:00:00
+ --> self.current_ts: 2019-10-13 00:00:00
+ --> self.current_ts: 2019-10-14 00:00:00
+ --> self.current_ts: 2019-10-15 00:00:00
+ --> self.current_ts: 2019-10-16 00:00:00
+ --> self.current_ts: 2019-10-17 00:00:00
+ --> self.current_ts: 2019-10-18 00:00:00
+ --> self.current_ts: 2019-10-19 00:00:00
+ --> self.current_ts: 2019-10-20 00:00:00
+ --> self.current_ts: 2019-10-21 00:00:00
+ --> self.current_ts: 2019-10-22 00:00:00
+ --> self.current_ts: 2019-10-23 00:00:00
+ --> self.current_ts: 2019-10-24 00:00:00
+ --> self.current_ts: 2019-10-25 00:00:00
+ --> self.current_ts: 2019-10-26 00:00:00
+ --> self.current_ts: 2019-10-27 00:00:00
+ --> self.current_ts: 2019-10-28 00:00:00
+ --> self.current_ts: 2019-10-29 00:00:00
+ --> self.current_ts: 2019-10-30 00:00:00
+ --> self.current_ts: 2019-10-31 00:00:00
+ --> self.current_ts: 2019-11-01 00:00:00
+ --> self.current_ts: 2019-11-02 00:00:00
+ --> self.current_ts: 2019-11-03 00:00:00
+ --> self.current_ts: 2019-11-04 00:00:00
+ --> self.current_ts: 2019-11-05 00:00:00
+ --> self.current_ts: 2019-11-06 00:00:00
+ --> self.current_ts: 2019-11-07 00:00:00
+ --> self.current_ts: 2019-11-08 00:00:00
+ --> self.current_ts: 2019-11-09 00:00:00
+ --> self.current_ts: 2019-11-10 00:00:00
+ --> self.current_ts: 2019-11-11 00:00:00
+ --> self.current_ts: 2019-11-12 00:00:00
+ --> self.current_ts: 2019-11-13 00:00:00
+ --> self.current_ts: 2019-11-14 00:00:00
+ --> self.current_ts: 2019-11-15 00:00:00
+ --> self.current_ts: 2019-11-16 00:00:00
+ --> self.current_ts: 2019-11-17 00:00:00
+ --> self.current_ts: 2019-11-18 00:00:00
+ --> self.current_ts: 2019-11-19 00:00:00
+ --> self.current_ts: 2019-11-20 00:00:00
+ --> self.current_ts: 2019-11-21 00:00:00
+ --> self.current_ts: 2019-11-22 00:00:00
+ --> self.current_ts: 2019-11-23 00:00:00
+ --> self.current_ts: 2019-11-24 00:00:00
+ --> self.current_ts: 2019-11-25 00:00:00
+ --> self.current_ts: 2019-11-26 00:00:00
+ --> self.current_ts: 2019-11-27 00:00:00
+ --> self.current_ts: 2019-11-28 00:00:00
+ --> self.current_ts: 2019-11-29 00:00:00
+ --> self.current_ts: 2019-11-30 00:00:00
+ --> self.current_ts: 2019-12-01 00:00:00
+ --> self.current_ts: 2019-12-02 00:00:00
+ --> self.current_ts: 2019-12-03 00:00:00
+ --> self.current_ts: 2019-12-04 00:00:00
+ --> self.current_ts: 2019-12-05 00:00:00
+ --> self.current_ts: 2019-12-06 00:00:00
+ --> self.current_ts: 2019-12-07 00:00:00
+ --> self.current_ts: 2019-12-08 00:00:00
+ --> self.current_ts: 2019-12-09 00:00:00
+ --> self.current_ts: 2019-12-10 00:00:00
+ --> self.current_ts: 2019-12-11 00:00:00
+ --> self.current_ts: 2019-12-12 00:00:00
+ --> self.current_ts: 2019-12-13 00:00:00
+ --> self.current_ts: 2019-12-14 00:00:00
+ --> self.current_ts: 2019-12-15 00:00:00
+ --> self.current_ts: 2019-12-16 00:00:00
+ --> self.current_ts: 2019-12-17 00:00:00
+ --> self.current_ts: 2019-12-18 00:00:00
+ --> self.current_ts: 2019-12-19 00:00:00
+ --> self.current_ts: 2019-12-20 00:00:00
+ --> self.current_ts: 2019-12-21 00:00:00
+ --> self.current_ts: 2019-12-22 00:00:00
+ --> self.current_ts: 2019-12-23 00:00:00
+ --> self.current_ts: 2019-12-24 00:00:00
+ --> self.current_ts: 2019-12-25 00:00:00
+ --> self.current_ts: 2019-12-26 00:00:00
+ --> self.current_ts: 2019-12-27 00:00:00
+ --> self.current_ts: 2019-12-28 00:00:00
+ --> self.current_ts: 2019-12-29 00:00:00
+ --> self.current_ts: 2019-12-30 00:00:00
+ --> self.current_ts: 2019-12-31 00:00:00
+ --> self.current_ts: 2020-01-01 00:00:00
+ --> self.current_ts: 2020-01-02 00:00:00
+ --> self.current_ts: 2020-01-03 00:00:00
+ --> self.current_ts: 2020-01-04 00:00:00
+ --> self.current_ts: 2020-01-05 00:00:00
+ --> self.current_ts: 2020-01-06 00:00:00
+ --> self.current_ts: 2020-01-07 00:00:00
+ --> self.current_ts: 2020-01-08 00:00:00
+ --> self.current_ts: 2020-01-09 00:00:00
+ --> self.current_ts: 2020-01-10 00:00:00
+ --> self.current_ts: 2020-01-11 00:00:00
+ --> self.current_ts: 2020-01-12 00:00:00
+ --> self.current_ts: 2020-01-13 00:00:00
+ --> self.current_ts: 2020-01-14 00:00:00
+ --> self.current_ts: 2020-01-15 00:00:00
+ --> self.current_ts: 2020-01-16 00:00:00
+ --> self.current_ts: 2020-01-17 00:00:00
+ --> self.current_ts: 2020-01-18 00:00:00
+ --> self.current_ts: 2020-01-19 00:00:00
+ --> self.current_ts: 2020-01-20 00:00:00
+ --> self.current_ts: 2020-01-21 00:00:00
+ --> self.current_ts: 2020-01-22 00:00:00
+ --> self.current_ts: 2020-01-23 00:00:00
+ --> self.current_ts: 2020-01-24 00:00:00
+ --> self.current_ts: 2020-01-25 00:00:00
+ --> self.current_ts: 2020-01-26 00:00:00
+ --> self.current_ts: 2020-01-27 00:00:00
+ --> self.current_ts: 2020-01-28 00:00:00
+ --> self.current_ts: 2020-01-29 00:00:00
+ --> self.current_ts: 2020-01-30 00:00:00
+ --> self.current_ts: 2020-01-31 00:00:00
+ --> self.current_ts: 2020-02-01 00:00:00
+ --> self.current_ts: 2020-02-02 00:00:00
+ --> self.current_ts: 2020-02-03 00:00:00
+ --> self.current_ts: 2020-02-04 00:00:00
+ --> self.current_ts: 2020-02-05 00:00:00
+ --> self.current_ts: 2020-02-06 00:00:00
+ --> self.current_ts: 2020-02-07 00:00:00
+ --> self.current_ts: 2020-02-08 00:00:00
+ --> self.current_ts: 2020-02-09 00:00:00
+ --> self.current_ts: 2020-02-10 00:00:00
+ --> self.current_ts: 2020-02-11 00:00:00
+ --> self.current_ts: 2020-02-12 00:00:00
+ --> self.current_ts: 2020-02-13 00:00:00
+ --> self.current_ts: 2020-02-14 00:00:00
+ --> self.current_ts: 2020-02-15 00:00:00
+ --> self.current_ts: 2020-02-16 00:00:00
+ --> self.current_ts: 2020-02-17 00:00:00
+ --> self.current_ts: 2020-02-18 00:00:00
+ --> self.current_ts: 2020-02-19 00:00:00
+ --> self.current_ts: 2020-02-20 00:00:00
+ --> self.current_ts: 2020-02-21 00:00:00
+ --> self.current_ts: 2020-02-22 00:00:00
+ --> self.current_ts: 2020-02-23 00:00:00
+ --> self.current_ts: 2020-02-24 00:00:00
+ --> self.current_ts: 2020-02-25 00:00:00
+ --> self.current_ts: 2020-02-26 00:00:00
+ --> self.current_ts: 2020-02-27 00:00:00
+ --> self.current_ts: 2020-02-28 00:00:00
+ --> self.current_ts: 2020-02-29 00:00:00
+ --> self.current_ts: 2020-03-01 00:00:00
+ --> self.current_ts: 2020-03-02 00:00:00
+ --> self.current_ts: 2020-03-03 00:00:00
+ --> self.current_ts: 2020-03-04 00:00:00
+ --> self.current_ts: 2020-03-05 00:00:00
+ --> self.current_ts: 2020-03-06 00:00:00
+Sell: 19.844516916703256
+     open_time close_time  Open  ...   ema_slow  uptrend  downtrend
+299 2020-03-06 2020-03-06  46.0  ...  49.627018    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2020-03-07 00:00:00
+Sell: 19.78171349092027
+     open_time close_time  Open  ...   ema_slow  uptrend  downtrend
+299 2020-03-06 2020-03-06  46.0  ...  49.627018    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2020-03-08 00:00:00
+Sell: 19.78171349092027
+     open_time close_time  Open  ...   ema_slow  uptrend  downtrend
+299 2020-03-06 2020-03-06  46.0  ...  49.627018    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2020-03-09 00:00:00
+ --> self.current_ts: 2020-03-10 00:00:00
+ --> self.current_ts: 2020-03-11 00:00:00
+ --> self.current_ts: 2020-03-12 00:00:00
+ --> self.current_ts: 2020-03-13 00:00:00
+ --> self.current_ts: 2020-03-14 00:00:00
+ --> self.current_ts: 2020-03-15 00:00:00
+ --> self.current_ts: 2020-03-16 00:00:00
+ --> self.current_ts: 2020-03-17 00:00:00
+ --> self.current_ts: 2020-03-18 00:00:00
+ --> self.current_ts: 2020-03-19 00:00:00
+ --> self.current_ts: 2020-03-20 00:00:00
+ --> self.current_ts: 2020-03-21 00:00:00
+ --> self.current_ts: 2020-03-22 00:00:00
+ --> self.current_ts: 2020-03-23 00:00:00
+ --> self.current_ts: 2020-03-24 00:00:00
+ --> self.current_ts: 2020-03-25 00:00:00
+ --> self.current_ts: 2020-03-26 00:00:00
+ --> self.current_ts: 2020-03-27 00:00:00
+ --> self.current_ts: 2020-03-28 00:00:00
+ --> self.current_ts: 2020-03-29 00:00:00
+ --> self.current_ts: 2020-03-30 00:00:00
+ --> self.current_ts: 2020-03-31 00:00:00
+ --> self.current_ts: 2020-04-01 00:00:00
+ --> self.current_ts: 2020-04-02 00:00:00
+ --> self.current_ts: 2020-04-03 00:00:00
+ --> self.current_ts: 2020-04-04 00:00:00
+ --> self.current_ts: 2020-04-05 00:00:00
+ --> self.current_ts: 2020-04-06 00:00:00
+ --> self.current_ts: 2020-04-07 00:00:00
+ --> self.current_ts: 2020-04-08 00:00:00
+ --> self.current_ts: 2020-04-09 00:00:00
+ --> self.current_ts: 2020-04-10 00:00:00
+ --> self.current_ts: 2020-04-11 00:00:00
+ --> self.current_ts: 2020-04-12 00:00:00
+ --> self.current_ts: 2020-04-13 00:00:00
+Buy: 11.216097102315889
+     open_time close_time       Open  ...  ema_slow  uptrend  downtrend
+299 2020-04-13 2020-04-13  39.344002  ...  36.29109     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2020-04-14 00:00:00
+ --> self.current_ts: 2020-04-15 00:00:00
+ --> self.current_ts: 2020-04-16 00:00:00
+ --> self.current_ts: 2020-04-17 00:00:00
+ --> self.current_ts: 2020-04-18 00:00:00
+ --> self.current_ts: 2020-04-19 00:00:00
+ --> self.current_ts: 2020-04-20 00:00:00
+ --> self.current_ts: 2020-04-21 00:00:00
+ --> self.current_ts: 2020-04-22 00:00:00
+ --> self.current_ts: 2020-04-23 00:00:00
+ --> self.current_ts: 2020-04-24 00:00:00
+ --> self.current_ts: 2020-04-25 00:00:00
+ --> self.current_ts: 2020-04-26 00:00:00
+ --> self.current_ts: 2020-04-27 00:00:00
+ --> self.current_ts: 2020-04-28 00:00:00
+ --> self.current_ts: 2020-04-29 00:00:00
+ --> self.current_ts: 2020-04-30 00:00:00
+ --> self.current_ts: 2020-05-01 00:00:00
+ --> self.current_ts: 2020-05-02 00:00:00
+ --> self.current_ts: 2020-05-03 00:00:00
+ --> self.current_ts: 2020-05-04 00:00:00
+ --> self.current_ts: 2020-05-05 00:00:00
+ --> self.current_ts: 2020-05-06 00:00:00
+ --> self.current_ts: 2020-05-07 00:00:00
+ --> self.current_ts: 2020-05-08 00:00:00
+ --> self.current_ts: 2020-05-09 00:00:00
+ --> self.current_ts: 2020-05-10 00:00:00
+ --> self.current_ts: 2020-05-11 00:00:00
+ --> self.current_ts: 2020-05-12 00:00:00
+ --> self.current_ts: 2020-05-13 00:00:00
+ --> self.current_ts: 2020-05-14 00:00:00
+ --> self.current_ts: 2020-05-15 00:00:00
+ --> self.current_ts: 2020-05-16 00:00:00
+ --> self.current_ts: 2020-05-17 00:00:00
+ --> self.current_ts: 2020-05-18 00:00:00
+ --> self.current_ts: 2020-05-19 00:00:00
+ --> self.current_ts: 2020-05-20 00:00:00
+ --> self.current_ts: 2020-05-21 00:00:00
+ --> self.current_ts: 2020-05-22 00:00:00
+ --> self.current_ts: 2020-05-23 00:00:00
+ --> self.current_ts: 2020-05-24 00:00:00
+ --> self.current_ts: 2020-05-25 00:00:00
+ --> self.current_ts: 2020-05-26 00:00:00
+ --> self.current_ts: 2020-05-27 00:00:00
+ --> self.current_ts: 2020-05-28 00:00:00
+ --> self.current_ts: 2020-05-29 00:00:00
+ --> self.current_ts: 2020-05-30 00:00:00
+ --> self.current_ts: 2020-05-31 00:00:00
+ --> self.current_ts: 2020-06-01 00:00:00
+ --> self.current_ts: 2020-06-02 00:00:00
+ --> self.current_ts: 2020-06-03 00:00:00
+ --> self.current_ts: 2020-06-04 00:00:00
+ --> self.current_ts: 2020-06-05 00:00:00
+ --> self.current_ts: 2020-06-06 00:00:00
+ --> self.current_ts: 2020-06-07 00:00:00
+ --> self.current_ts: 2020-06-08 00:00:00
+ --> self.current_ts: 2020-06-09 00:00:00
+ --> self.current_ts: 2020-06-10 00:00:00
+ --> self.current_ts: 2020-06-11 00:00:00
+ --> self.current_ts: 2020-06-12 00:00:00
+ --> self.current_ts: 2020-06-13 00:00:00
+ --> self.current_ts: 2020-06-14 00:00:00
+ --> self.current_ts: 2020-06-15 00:00:00
+ --> self.current_ts: 2020-06-16 00:00:00
+ --> self.current_ts: 2020-06-17 00:00:00
+ --> self.current_ts: 2020-06-18 00:00:00
+ --> self.current_ts: 2020-06-19 00:00:00
+ --> self.current_ts: 2020-06-20 00:00:00
+ --> self.current_ts: 2020-06-21 00:00:00
+ --> self.current_ts: 2020-06-22 00:00:00
+ --> self.current_ts: 2020-06-23 00:00:00
+ --> self.current_ts: 2020-06-24 00:00:00
+ --> self.current_ts: 2020-06-25 00:00:00
+ --> self.current_ts: 2020-06-26 00:00:00
+ --> self.current_ts: 2020-06-27 00:00:00
+ --> self.current_ts: 2020-06-28 00:00:00
+ --> self.current_ts: 2020-06-29 00:00:00
+ --> self.current_ts: 2020-06-30 00:00:00
+ --> self.current_ts: 2020-07-01 00:00:00
+ --> self.current_ts: 2020-07-02 00:00:00
+ --> self.current_ts: 2020-07-03 00:00:00
+ --> self.current_ts: 2020-07-04 00:00:00
+ --> self.current_ts: 2020-07-05 00:00:00
+ --> self.current_ts: 2020-07-06 00:00:00
+ --> self.current_ts: 2020-07-07 00:00:00
+ --> self.current_ts: 2020-07-08 00:00:00
+ --> self.current_ts: 2020-07-09 00:00:00
+ --> self.current_ts: 2020-07-10 00:00:00
+ --> self.current_ts: 2020-07-11 00:00:00
+ --> self.current_ts: 2020-07-12 00:00:00
+ --> self.current_ts: 2020-07-13 00:00:00
+ --> self.current_ts: 2020-07-14 00:00:00
+ --> self.current_ts: 2020-07-15 00:00:00
+ --> self.current_ts: 2020-07-16 00:00:00
+ --> self.current_ts: 2020-07-17 00:00:00
+ --> self.current_ts: 2020-07-18 00:00:00
+ --> self.current_ts: 2020-07-19 00:00:00
+ --> self.current_ts: 2020-07-20 00:00:00
+ --> self.current_ts: 2020-07-21 00:00:00
+ --> self.current_ts: 2020-07-22 00:00:00
+ --> self.current_ts: 2020-07-23 00:00:00
+ --> self.current_ts: 2020-07-24 00:00:00
+ --> self.current_ts: 2020-07-25 00:00:00
+ --> self.current_ts: 2020-07-26 00:00:00
+ --> self.current_ts: 2020-07-27 00:00:00
+ --> self.current_ts: 2020-07-28 00:00:00
+ --> self.current_ts: 2020-07-29 00:00:00
+ --> self.current_ts: 2020-07-30 00:00:00
+ --> self.current_ts: 2020-07-31 00:00:00
+ --> self.current_ts: 2020-08-01 00:00:00
+ --> self.current_ts: 2020-08-02 00:00:00
+ --> self.current_ts: 2020-08-03 00:00:00
+ --> self.current_ts: 2020-08-04 00:00:00
+ --> self.current_ts: 2020-08-05 00:00:00
+ --> self.current_ts: 2020-08-06 00:00:00
+ --> self.current_ts: 2020-08-07 00:00:00
+ --> self.current_ts: 2020-08-08 00:00:00
+ --> self.current_ts: 2020-08-09 00:00:00
+ --> self.current_ts: 2020-08-10 00:00:00
+ --> self.current_ts: 2020-08-11 00:00:00
+ --> self.current_ts: 2020-08-12 00:00:00
+ --> self.current_ts: 2020-08-13 00:00:00
+ --> self.current_ts: 2020-08-14 00:00:00
+ --> self.current_ts: 2020-08-15 00:00:00
+ --> self.current_ts: 2020-08-16 00:00:00
+ --> self.current_ts: 2020-08-17 00:00:00
+ --> self.current_ts: 2020-08-18 00:00:00
+ --> self.current_ts: 2020-08-19 00:00:00
+ --> self.current_ts: 2020-08-20 00:00:00
+ --> self.current_ts: 2020-08-21 00:00:00
+ --> self.current_ts: 2020-08-22 00:00:00
+ --> self.current_ts: 2020-08-23 00:00:00
+ --> self.current_ts: 2020-08-24 00:00:00
+ --> self.current_ts: 2020-08-25 00:00:00
+ --> self.current_ts: 2020-08-26 00:00:00
+ --> self.current_ts: 2020-08-27 00:00:00
+ --> self.current_ts: 2020-08-28 00:00:00
+ --> self.current_ts: 2020-08-29 00:00:00
+ --> self.current_ts: 2020-08-30 00:00:00
+ --> self.current_ts: 2020-08-31 00:00:00
+ --> self.current_ts: 2020-09-01 00:00:00
+ --> self.current_ts: 2020-09-02 00:00:00
+ --> self.current_ts: 2020-09-03 00:00:00
+ --> self.current_ts: 2020-09-04 00:00:00
+ --> self.current_ts: 2020-09-05 00:00:00
+ --> self.current_ts: 2020-09-06 00:00:00
+ --> self.current_ts: 2020-09-07 00:00:00
+ --> self.current_ts: 2020-09-08 00:00:00
+ --> self.current_ts: 2020-09-09 00:00:00
+ --> self.current_ts: 2020-09-10 00:00:00
+ --> self.current_ts: 2020-09-11 00:00:00
+ --> self.current_ts: 2020-09-12 00:00:00
+ --> self.current_ts: 2020-09-13 00:00:00
+ --> self.current_ts: 2020-09-14 00:00:00
+ --> self.current_ts: 2020-09-15 00:00:00
+ --> self.current_ts: 2020-09-16 00:00:00
+ --> self.current_ts: 2020-09-17 00:00:00
+ --> self.current_ts: 2020-09-18 00:00:00
+ --> self.current_ts: 2020-09-19 00:00:00
+ --> self.current_ts: 2020-09-20 00:00:00
+ --> self.current_ts: 2020-09-21 00:00:00
+ --> self.current_ts: 2020-09-22 00:00:00
+ --> self.current_ts: 2020-09-23 00:00:00
+ --> self.current_ts: 2020-09-24 00:00:00
+ --> self.current_ts: 2020-09-25 00:00:00
+ --> self.current_ts: 2020-09-26 00:00:00
+ --> self.current_ts: 2020-09-27 00:00:00
+ --> self.current_ts: 2020-09-28 00:00:00
+ --> self.current_ts: 2020-09-29 00:00:00
+ --> self.current_ts: 2020-09-30 00:00:00
+ --> self.current_ts: 2020-10-01 00:00:00
+ --> self.current_ts: 2020-10-02 00:00:00
+ --> self.current_ts: 2020-10-03 00:00:00
+ --> self.current_ts: 2020-10-04 00:00:00
+ --> self.current_ts: 2020-10-05 00:00:00
+ --> self.current_ts: 2020-10-06 00:00:00
+ --> self.current_ts: 2020-10-07 00:00:00
+ --> self.current_ts: 2020-10-08 00:00:00
+ --> self.current_ts: 2020-10-09 00:00:00
+ --> self.current_ts: 2020-10-10 00:00:00
+ --> self.current_ts: 2020-10-11 00:00:00
+ --> self.current_ts: 2020-10-12 00:00:00
+ --> self.current_ts: 2020-10-13 00:00:00
+ --> self.current_ts: 2020-10-14 00:00:00
+ --> self.current_ts: 2020-10-15 00:00:00
+ --> self.current_ts: 2020-10-16 00:00:00
+ --> self.current_ts: 2020-10-17 00:00:00
+ --> self.current_ts: 2020-10-18 00:00:00
+ --> self.current_ts: 2020-10-19 00:00:00
+ --> self.current_ts: 2020-10-20 00:00:00
+ --> self.current_ts: 2020-10-21 00:00:00
+ --> self.current_ts: 2020-10-22 00:00:00
+ --> self.current_ts: 2020-10-23 00:00:00
+ --> self.current_ts: 2020-10-24 00:00:00
+ --> self.current_ts: 2020-10-25 00:00:00
+ --> self.current_ts: 2020-10-26 00:00:00
+ --> self.current_ts: 2020-10-27 00:00:00
+ --> self.current_ts: 2020-10-28 00:00:00
+Sell: 37.57839730000024
+     open_time close_time       Open  ...    ema_slow  uptrend  downtrend
+299 2020-10-28 2020-10-28  138.82666  ...  141.625007    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2020-10-29 00:00:00
+ --> self.current_ts: 2020-10-30 00:00:00
+ --> self.current_ts: 2020-10-31 00:00:00
+ --> self.current_ts: 2020-11-01 00:00:00
+ --> self.current_ts: 2020-11-02 00:00:00
+ --> self.current_ts: 2020-11-03 00:00:00
+ --> self.current_ts: 2020-11-04 00:00:00
+ --> self.current_ts: 2020-11-05 00:00:00
+ --> self.current_ts: 2020-11-06 00:00:00
+ --> self.current_ts: 2020-11-07 00:00:00
+ --> self.current_ts: 2020-11-08 00:00:00
+ --> self.current_ts: 2020-11-09 00:00:00
+ --> self.current_ts: 2020-11-10 00:00:00
+ --> self.current_ts: 2020-11-11 00:00:00
+ --> self.current_ts: 2020-11-12 00:00:00
+ --> self.current_ts: 2020-11-13 00:00:00
+ --> self.current_ts: 2020-11-14 00:00:00
+ --> self.current_ts: 2020-11-15 00:00:00
+ --> self.current_ts: 2020-11-16 00:00:00
+ --> self.current_ts: 2020-11-17 00:00:00
+ --> self.current_ts: 2020-11-18 00:00:00
+Buy: 27.22125607106568
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2020-11-18 2020-11-18  149.449997  ...  142.033615     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2020-11-19 00:00:00
+ --> self.current_ts: 2020-11-20 00:00:00
+ --> self.current_ts: 2020-11-21 00:00:00
+ --> self.current_ts: 2020-11-22 00:00:00
+ --> self.current_ts: 2020-11-23 00:00:00
+ --> self.current_ts: 2020-11-24 00:00:00
+ --> self.current_ts: 2020-11-25 00:00:00
+ --> self.current_ts: 2020-11-26 00:00:00
+ --> self.current_ts: 2020-11-27 00:00:00
+ --> self.current_ts: 2020-11-28 00:00:00
+ --> self.current_ts: 2020-11-29 00:00:00
+ --> self.current_ts: 2020-11-30 00:00:00
+ --> self.current_ts: 2020-12-01 00:00:00
+ --> self.current_ts: 2020-12-02 00:00:00
+ --> self.current_ts: 2020-12-03 00:00:00
+ --> self.current_ts: 2020-12-04 00:00:00
+ --> self.current_ts: 2020-12-05 00:00:00
+ --> self.current_ts: 2020-12-06 00:00:00
+ --> self.current_ts: 2020-12-07 00:00:00
+ --> self.current_ts: 2020-12-08 00:00:00
+ --> self.current_ts: 2020-12-09 00:00:00
+ --> self.current_ts: 2020-12-10 00:00:00
+ --> self.current_ts: 2020-12-11 00:00:00
+ --> self.current_ts: 2020-12-12 00:00:00
+ --> self.current_ts: 2020-12-13 00:00:00
+ --> self.current_ts: 2020-12-14 00:00:00
+ --> self.current_ts: 2020-12-15 00:00:00
+ --> self.current_ts: 2020-12-16 00:00:00
+ --> self.current_ts: 2020-12-17 00:00:00
+ --> self.current_ts: 2020-12-18 00:00:00
+ --> self.current_ts: 2020-12-19 00:00:00
+ --> self.current_ts: 2020-12-20 00:00:00
+ --> self.current_ts: 2020-12-21 00:00:00
+ --> self.current_ts: 2020-12-22 00:00:00
+ --> self.current_ts: 2020-12-23 00:00:00
+ --> self.current_ts: 2020-12-24 00:00:00
+ --> self.current_ts: 2020-12-25 00:00:00
+ --> self.current_ts: 2020-12-26 00:00:00
+ --> self.current_ts: 2020-12-27 00:00:00
+ --> self.current_ts: 2020-12-28 00:00:00
+ --> self.current_ts: 2020-12-29 00:00:00
+ --> self.current_ts: 2020-12-30 00:00:00
+ --> self.current_ts: 2020-12-31 00:00:00
+ --> self.current_ts: 2021-01-01 00:00:00
+ --> self.current_ts: 2021-01-02 00:00:00
+ --> self.current_ts: 2021-01-03 00:00:00
+ --> self.current_ts: 2021-01-04 00:00:00
+ --> self.current_ts: 2021-01-05 00:00:00
+ --> self.current_ts: 2021-01-06 00:00:00
+ --> self.current_ts: 2021-01-07 00:00:00
+ --> self.current_ts: 2021-01-08 00:00:00
+ --> self.current_ts: 2021-01-09 00:00:00
+ --> self.current_ts: 2021-01-10 00:00:00
+ --> self.current_ts: 2021-01-11 00:00:00
+ --> self.current_ts: 2021-01-12 00:00:00
+ --> self.current_ts: 2021-01-13 00:00:00
+ --> self.current_ts: 2021-01-14 00:00:00
+ --> self.current_ts: 2021-01-15 00:00:00
+ --> self.current_ts: 2021-01-16 00:00:00
+ --> self.current_ts: 2021-01-17 00:00:00
+ --> self.current_ts: 2021-01-18 00:00:00
+ --> self.current_ts: 2021-01-19 00:00:00
+ --> self.current_ts: 2021-01-20 00:00:00
+ --> self.current_ts: 2021-01-21 00:00:00
+ --> self.current_ts: 2021-01-22 00:00:00
+ --> self.current_ts: 2021-01-23 00:00:00
+ --> self.current_ts: 2021-01-24 00:00:00
+ --> self.current_ts: 2021-01-25 00:00:00
+ --> self.current_ts: 2021-01-26 00:00:00
+ --> self.current_ts: 2021-01-27 00:00:00
+ --> self.current_ts: 2021-01-28 00:00:00
+ --> self.current_ts: 2021-01-29 00:00:00
+ --> self.current_ts: 2021-01-30 00:00:00
+ --> self.current_ts: 2021-01-31 00:00:00
+ --> self.current_ts: 2021-02-01 00:00:00
+ --> self.current_ts: 2021-02-02 00:00:00
+ --> self.current_ts: 2021-02-03 00:00:00
+ --> self.current_ts: 2021-02-04 00:00:00
+ --> self.current_ts: 2021-02-05 00:00:00
+ --> self.current_ts: 2021-02-06 00:00:00
+ --> self.current_ts: 2021-02-07 00:00:00
+ --> self.current_ts: 2021-02-08 00:00:00
+ --> self.current_ts: 2021-02-09 00:00:00
+ --> self.current_ts: 2021-02-10 00:00:00
+ --> self.current_ts: 2021-02-11 00:00:00
+ --> self.current_ts: 2021-02-12 00:00:00
+ --> self.current_ts: 2021-02-13 00:00:00
+ --> self.current_ts: 2021-02-14 00:00:00
+ --> self.current_ts: 2021-02-15 00:00:00
+ --> self.current_ts: 2021-02-16 00:00:00
+ --> self.current_ts: 2021-02-17 00:00:00
+Sell: 38.62968504839044
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-02-17 2021-02-17  259.696655  ...  273.735541    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-02-18 00:00:00
+ --> self.current_ts: 2021-02-19 00:00:00
+ --> self.current_ts: 2021-02-20 00:00:00
+ --> self.current_ts: 2021-02-21 00:00:00
+ --> self.current_ts: 2021-02-22 00:00:00
+ --> self.current_ts: 2021-02-23 00:00:00
+ --> self.current_ts: 2021-02-24 00:00:00
+ --> self.current_ts: 2021-02-25 00:00:00
+ --> self.current_ts: 2021-02-26 00:00:00
+ --> self.current_ts: 2021-02-27 00:00:00
+ --> self.current_ts: 2021-02-28 00:00:00
+ --> self.current_ts: 2021-03-01 00:00:00
+ --> self.current_ts: 2021-03-02 00:00:00
+ --> self.current_ts: 2021-03-03 00:00:00
+ --> self.current_ts: 2021-03-04 00:00:00
+ --> self.current_ts: 2021-03-05 00:00:00
+ --> self.current_ts: 2021-03-06 00:00:00
+ --> self.current_ts: 2021-03-07 00:00:00
+ --> self.current_ts: 2021-03-08 00:00:00
+ --> self.current_ts: 2021-03-09 00:00:00
+ --> self.current_ts: 2021-03-10 00:00:00
+ --> self.current_ts: 2021-03-11 00:00:00
+ --> self.current_ts: 2021-03-12 00:00:00
+ --> self.current_ts: 2021-03-13 00:00:00
+ --> self.current_ts: 2021-03-14 00:00:00
+ --> self.current_ts: 2021-03-15 00:00:00
+ --> self.current_ts: 2021-03-16 00:00:00
+ --> self.current_ts: 2021-03-17 00:00:00
+ --> self.current_ts: 2021-03-18 00:00:00
+ --> self.current_ts: 2021-03-19 00:00:00
+ --> self.current_ts: 2021-03-20 00:00:00
+ --> self.current_ts: 2021-03-21 00:00:00
+ --> self.current_ts: 2021-03-22 00:00:00
+ --> self.current_ts: 2021-03-23 00:00:00
+ --> self.current_ts: 2021-03-24 00:00:00
+ --> self.current_ts: 2021-03-25 00:00:00
+ --> self.current_ts: 2021-03-26 00:00:00
+ --> self.current_ts: 2021-03-27 00:00:00
+ --> self.current_ts: 2021-03-28 00:00:00
+ --> self.current_ts: 2021-03-29 00:00:00
+ --> self.current_ts: 2021-03-30 00:00:00
+ --> self.current_ts: 2021-03-31 00:00:00
+ --> self.current_ts: 2021-04-01 00:00:00
+ --> self.current_ts: 2021-04-02 00:00:00
+ --> self.current_ts: 2021-04-03 00:00:00
+ --> self.current_ts: 2021-04-04 00:00:00
+ --> self.current_ts: 2021-04-05 00:00:00
+ --> self.current_ts: 2021-04-06 00:00:00
+ --> self.current_ts: 2021-04-07 00:00:00
+ --> self.current_ts: 2021-04-08 00:00:00
+ --> self.current_ts: 2021-04-09 00:00:00
+ --> self.current_ts: 2021-04-10 00:00:00
+ --> self.current_ts: 2021-04-11 00:00:00
+ --> self.current_ts: 2021-04-12 00:00:00
+Buy: 32.10872056852902
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-04-12 2021-04-12  228.566666  ...  224.542334     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-04-13 00:00:00
+ --> self.current_ts: 2021-04-14 00:00:00
+ --> self.current_ts: 2021-04-15 00:00:00
+ --> self.current_ts: 2021-04-16 00:00:00
+ --> self.current_ts: 2021-04-17 00:00:00
+ --> self.current_ts: 2021-04-18 00:00:00
+ --> self.current_ts: 2021-04-19 00:00:00
+ --> self.current_ts: 2021-04-20 00:00:00
+ --> self.current_ts: 2021-04-21 00:00:00
+ --> self.current_ts: 2021-04-22 00:00:00
+ --> self.current_ts: 2021-04-23 00:00:00
+ --> self.current_ts: 2021-04-24 00:00:00
+ --> self.current_ts: 2021-04-25 00:00:00
+ --> self.current_ts: 2021-04-26 00:00:00
+ --> self.current_ts: 2021-04-27 00:00:00
+ --> self.current_ts: 2021-04-28 00:00:00
+ --> self.current_ts: 2021-04-29 00:00:00
+ --> self.current_ts: 2021-04-30 00:00:00
+ --> self.current_ts: 2021-05-01 00:00:00
+ --> self.current_ts: 2021-05-02 00:00:00
+ --> self.current_ts: 2021-05-03 00:00:00
+ --> self.current_ts: 2021-05-04 00:00:00
+Sell: 31.860036466769238
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-05-04 2021-05-04  226.313339  ...  233.728493    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-05-05 00:00:00
+ --> self.current_ts: 2021-05-06 00:00:00
+ --> self.current_ts: 2021-05-07 00:00:00
+ --> self.current_ts: 2021-05-08 00:00:00
+ --> self.current_ts: 2021-05-09 00:00:00
+ --> self.current_ts: 2021-05-10 00:00:00
+ --> self.current_ts: 2021-05-11 00:00:00
+ --> self.current_ts: 2021-05-12 00:00:00
+ --> self.current_ts: 2021-05-13 00:00:00
+ --> self.current_ts: 2021-05-14 00:00:00
+ --> self.current_ts: 2021-05-15 00:00:00
+ --> self.current_ts: 2021-05-16 00:00:00
+ --> self.current_ts: 2021-05-17 00:00:00
+ --> self.current_ts: 2021-05-18 00:00:00
+ --> self.current_ts: 2021-05-19 00:00:00
+ --> self.current_ts: 2021-05-20 00:00:00
+ --> self.current_ts: 2021-05-21 00:00:00
+ --> self.current_ts: 2021-05-22 00:00:00
+ --> self.current_ts: 2021-05-23 00:00:00
+ --> self.current_ts: 2021-05-24 00:00:00
+ --> self.current_ts: 2021-05-25 00:00:00
+ --> self.current_ts: 2021-05-26 00:00:00
+ --> self.current_ts: 2021-05-27 00:00:00
+ --> self.current_ts: 2021-05-28 00:00:00
+ --> self.current_ts: 2021-05-29 00:00:00
+ --> self.current_ts: 2021-05-30 00:00:00
+ --> self.current_ts: 2021-05-31 00:00:00
+ --> self.current_ts: 2021-06-01 00:00:00
+ --> self.current_ts: 2021-06-02 00:00:00
+ --> self.current_ts: 2021-06-03 00:00:00
+ --> self.current_ts: 2021-06-04 00:00:00
+ --> self.current_ts: 2021-06-05 00:00:00
+ --> self.current_ts: 2021-06-06 00:00:00
+ --> self.current_ts: 2021-06-07 00:00:00
+ --> self.current_ts: 2021-06-08 00:00:00
+ --> self.current_ts: 2021-06-09 00:00:00
+ --> self.current_ts: 2021-06-10 00:00:00
+ --> self.current_ts: 2021-06-11 00:00:00
+ --> self.current_ts: 2021-06-12 00:00:00
+ --> self.current_ts: 2021-06-13 00:00:00
+ --> self.current_ts: 2021-06-14 00:00:00
+ --> self.current_ts: 2021-06-15 00:00:00
+ --> self.current_ts: 2021-06-16 00:00:00
+ --> self.current_ts: 2021-06-17 00:00:00
+ --> self.current_ts: 2021-06-18 00:00:00
+ --> self.current_ts: 2021-06-19 00:00:00
+ --> self.current_ts: 2021-06-20 00:00:00
+ --> self.current_ts: 2021-06-21 00:00:00
+ --> self.current_ts: 2021-06-22 00:00:00
+Buy: 50.13363562046956
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-06-22 2021-06-22  206.083328  ...  204.584122     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-06-23 00:00:00
+ --> self.current_ts: 2021-06-24 00:00:00
+ --> self.current_ts: 2021-06-25 00:00:00
+ --> self.current_ts: 2021-06-26 00:00:00
+ --> self.current_ts: 2021-06-27 00:00:00
+ --> self.current_ts: 2021-06-28 00:00:00
+ --> self.current_ts: 2021-06-29 00:00:00
+ --> self.current_ts: 2021-06-30 00:00:00
+ --> self.current_ts: 2021-07-01 00:00:00
+ --> self.current_ts: 2021-07-02 00:00:00
+ --> self.current_ts: 2021-07-03 00:00:00
+ --> self.current_ts: 2021-07-04 00:00:00
+ --> self.current_ts: 2021-07-05 00:00:00
+ --> self.current_ts: 2021-07-06 00:00:00
+ --> self.current_ts: 2021-07-07 00:00:00
+ --> self.current_ts: 2021-07-08 00:00:00
+ --> self.current_ts: 2021-07-09 00:00:00
+ --> self.current_ts: 2021-07-10 00:00:00
+ --> self.current_ts: 2021-07-11 00:00:00
+ --> self.current_ts: 2021-07-12 00:00:00
+ --> self.current_ts: 2021-07-13 00:00:00
+ --> self.current_ts: 2021-07-14 00:00:00
+ --> self.current_ts: 2021-07-15 00:00:00
+ --> self.current_ts: 2021-07-16 00:00:00
+ --> self.current_ts: 2021-07-17 00:00:00
+ --> self.current_ts: 2021-07-18 00:00:00
+ --> self.current_ts: 2021-07-19 00:00:00
+ --> self.current_ts: 2021-07-20 00:00:00
+ --> self.current_ts: 2021-07-21 00:00:00
+ --> self.current_ts: 2021-07-22 00:00:00
+ --> self.current_ts: 2021-07-23 00:00:00
+ --> self.current_ts: 2021-07-24 00:00:00
+ --> self.current_ts: 2021-07-25 00:00:00
+ --> self.current_ts: 2021-07-26 00:00:00
+ --> self.current_ts: 2021-07-27 00:00:00
+Sell: 60.3783662636018
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-07-27 2021-07-27  221.133331  ...  217.380861    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-07-28 00:00:00
+ --> self.current_ts: 2021-07-29 00:00:00
+Buy: 51.623459420118415
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-07-29 2021-07-29  216.596664  ...  218.032814     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-07-30 00:00:00
+ --> self.current_ts: 2021-07-31 00:00:00
+ --> self.current_ts: 2021-08-01 00:00:00
+ --> self.current_ts: 2021-08-02 00:00:00
+ --> self.current_ts: 2021-08-03 00:00:00
+ --> self.current_ts: 2021-08-04 00:00:00
+ --> self.current_ts: 2021-08-05 00:00:00
+ --> self.current_ts: 2021-08-06 00:00:00
+ --> self.current_ts: 2021-08-07 00:00:00
+ --> self.current_ts: 2021-08-08 00:00:00
+ --> self.current_ts: 2021-08-09 00:00:00
+ --> self.current_ts: 2021-08-10 00:00:00
+ --> self.current_ts: 2021-08-11 00:00:00
+ --> self.current_ts: 2021-08-12 00:00:00
+ --> self.current_ts: 2021-08-13 00:00:00
+ --> self.current_ts: 2021-08-14 00:00:00
+ --> self.current_ts: 2021-08-15 00:00:00
+ --> self.current_ts: 2021-08-16 00:00:00
+ --> self.current_ts: 2021-08-17 00:00:00
+ --> self.current_ts: 2021-08-18 00:00:00
+ --> self.current_ts: 2021-08-19 00:00:00
+ --> self.current_ts: 2021-08-20 00:00:00
+ --> self.current_ts: 2021-08-21 00:00:00
+ --> self.current_ts: 2021-08-22 00:00:00
+ --> self.current_ts: 2021-08-23 00:00:00
+ --> self.current_ts: 2021-08-24 00:00:00
+ --> self.current_ts: 2021-08-25 00:00:00
+ --> self.current_ts: 2021-08-26 00:00:00
+ --> self.current_ts: 2021-08-27 00:00:00
+ --> self.current_ts: 2021-08-28 00:00:00
+ --> self.current_ts: 2021-08-29 00:00:00
+ --> self.current_ts: 2021-08-30 00:00:00
+ --> self.current_ts: 2021-08-31 00:00:00
+ --> self.current_ts: 2021-09-01 00:00:00
+ --> self.current_ts: 2021-09-02 00:00:00
+ --> self.current_ts: 2021-09-03 00:00:00
+ --> self.current_ts: 2021-09-04 00:00:00
+ --> self.current_ts: 2021-09-05 00:00:00
+ --> self.current_ts: 2021-09-06 00:00:00
+ --> self.current_ts: 2021-09-07 00:00:00
+ --> self.current_ts: 2021-09-08 00:00:00
+ --> self.current_ts: 2021-09-09 00:00:00
+ --> self.current_ts: 2021-09-10 00:00:00
+ --> self.current_ts: 2021-09-11 00:00:00
+ --> self.current_ts: 2021-09-12 00:00:00
+ --> self.current_ts: 2021-09-13 00:00:00
+ --> self.current_ts: 2021-09-14 00:00:00
+ --> self.current_ts: 2021-09-15 00:00:00
+ --> self.current_ts: 2021-09-16 00:00:00
+ --> self.current_ts: 2021-09-17 00:00:00
+ --> self.current_ts: 2021-09-18 00:00:00
+ --> self.current_ts: 2021-09-19 00:00:00
+ --> self.current_ts: 2021-09-20 00:00:00
+ --> self.current_ts: 2021-09-21 00:00:00
+ --> self.current_ts: 2021-09-22 00:00:00
+ --> self.current_ts: 2021-09-23 00:00:00
+ --> self.current_ts: 2021-09-24 00:00:00
+ --> self.current_ts: 2021-09-25 00:00:00
+ --> self.current_ts: 2021-09-26 00:00:00
+ --> self.current_ts: 2021-09-27 00:00:00
+ --> self.current_ts: 2021-09-28 00:00:00
+ --> self.current_ts: 2021-09-29 00:00:00
+ --> self.current_ts: 2021-09-30 00:00:00
+ --> self.current_ts: 2021-10-01 00:00:00
+ --> self.current_ts: 2021-10-02 00:00:00
+ --> self.current_ts: 2021-10-03 00:00:00
+ --> self.current_ts: 2021-10-04 00:00:00
+ --> self.current_ts: 2021-10-05 00:00:00
+ --> self.current_ts: 2021-10-06 00:00:00
+ --> self.current_ts: 2021-10-07 00:00:00
+ --> self.current_ts: 2021-10-08 00:00:00
+ --> self.current_ts: 2021-10-09 00:00:00
+ --> self.current_ts: 2021-10-10 00:00:00
+ --> self.current_ts: 2021-10-11 00:00:00
+ --> self.current_ts: 2021-10-12 00:00:00
+ --> self.current_ts: 2021-10-13 00:00:00
+ --> self.current_ts: 2021-10-14 00:00:00
+ --> self.current_ts: 2021-10-15 00:00:00
+ --> self.current_ts: 2021-10-16 00:00:00
+ --> self.current_ts: 2021-10-17 00:00:00
+ --> self.current_ts: 2021-10-18 00:00:00
+ --> self.current_ts: 2021-10-19 00:00:00
+ --> self.current_ts: 2021-10-20 00:00:00
+ --> self.current_ts: 2021-10-21 00:00:00
+ --> self.current_ts: 2021-10-22 00:00:00
+ --> self.current_ts: 2021-10-23 00:00:00
+ --> self.current_ts: 2021-10-24 00:00:00
+ --> self.current_ts: 2021-10-25 00:00:00
+ --> self.current_ts: 2021-10-26 00:00:00
+ --> self.current_ts: 2021-10-27 00:00:00
+ --> self.current_ts: 2021-10-28 00:00:00
+ --> self.current_ts: 2021-10-29 00:00:00
+ --> self.current_ts: 2021-10-30 00:00:00
+ --> self.current_ts: 2021-10-31 00:00:00
+ --> self.current_ts: 2021-11-01 00:00:00
+ --> self.current_ts: 2021-11-02 00:00:00
+ --> self.current_ts: 2021-11-03 00:00:00
+ --> self.current_ts: 2021-11-04 00:00:00
+ --> self.current_ts: 2021-11-05 00:00:00
+ --> self.current_ts: 2021-11-06 00:00:00
+ --> self.current_ts: 2021-11-07 00:00:00
+ --> self.current_ts: 2021-11-08 00:00:00
+ --> self.current_ts: 2021-11-09 00:00:00
+ --> self.current_ts: 2021-11-10 00:00:00
+ --> self.current_ts: 2021-11-11 00:00:00
+ --> self.current_ts: 2021-11-12 00:00:00
+ --> self.current_ts: 2021-11-13 00:00:00
+ --> self.current_ts: 2021-11-14 00:00:00
+ --> self.current_ts: 2021-11-15 00:00:00
+ --> self.current_ts: 2021-11-16 00:00:00
+ --> self.current_ts: 2021-11-17 00:00:00
+ --> self.current_ts: 2021-11-18 00:00:00
+ --> self.current_ts: 2021-11-19 00:00:00
+ --> self.current_ts: 2021-11-20 00:00:00
+ --> self.current_ts: 2021-11-21 00:00:00
+ --> self.current_ts: 2021-11-22 00:00:00
+ --> self.current_ts: 2021-11-23 00:00:00
+ --> self.current_ts: 2021-11-24 00:00:00
+ --> self.current_ts: 2021-11-25 00:00:00
+ --> self.current_ts: 2021-11-26 00:00:00
+ --> self.current_ts: 2021-11-27 00:00:00
+ --> self.current_ts: 2021-11-28 00:00:00
+ --> self.current_ts: 2021-11-29 00:00:00
+ --> self.current_ts: 2021-11-30 00:00:00
+ --> self.current_ts: 2021-12-01 00:00:00
+ --> self.current_ts: 2021-12-02 00:00:00
+ --> self.current_ts: 2021-12-03 00:00:00
+ --> self.current_ts: 2021-12-04 00:00:00
+ --> self.current_ts: 2021-12-05 00:00:00
+ --> self.current_ts: 2021-12-06 00:00:00
+Sell: 26.309829773027715
+     open_time close_time       Open  ...    ema_slow  uptrend  downtrend
+299 2021-12-06 2021-12-06  333.83667  ...  358.483502    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-12-07 00:00:00
+ --> self.current_ts: 2021-12-08 00:00:00
+ --> self.current_ts: 2021-12-09 00:00:00
+ --> self.current_ts: 2021-12-10 00:00:00
+ --> self.current_ts: 2021-12-11 00:00:00
+ --> self.current_ts: 2021-12-12 00:00:00
+ --> self.current_ts: 2021-12-13 00:00:00
+ --> self.current_ts: 2021-12-14 00:00:00
+ --> self.current_ts: 2021-12-15 00:00:00
+ --> self.current_ts: 2021-12-16 00:00:00
+ --> self.current_ts: 2021-12-17 00:00:00
+ --> self.current_ts: 2021-12-18 00:00:00
+ --> self.current_ts: 2021-12-19 00:00:00
+ --> self.current_ts: 2021-12-20 00:00:00
+ --> self.current_ts: 2021-12-21 00:00:00
+ --> self.current_ts: 2021-12-22 00:00:00
+ --> self.current_ts: 2021-12-23 00:00:00
+ --> self.current_ts: 2021-12-24 00:00:00
+ --> self.current_ts: 2021-12-25 00:00:00
+ --> self.current_ts: 2021-12-26 00:00:00
+ --> self.current_ts: 2021-12-27 00:00:00
+ --> self.current_ts: 2021-12-28 00:00:00
+Buy: 27.932186592066294
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2021-12-28 2021-12-28  369.829987  ...  340.782819     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2021-12-29 00:00:00
+ --> self.current_ts: 2021-12-30 00:00:00
+ --> self.current_ts: 2021-12-31 00:00:00
+ --> self.current_ts: 2022-01-01 00:00:00
+ --> self.current_ts: 2022-01-02 00:00:00
+ --> self.current_ts: 2022-01-03 00:00:00
+ --> self.current_ts: 2022-01-04 00:00:00
+ --> self.current_ts: 2022-01-05 00:00:00
+ --> self.current_ts: 2022-01-06 00:00:00
+ --> self.current_ts: 2022-01-07 00:00:00
+ --> self.current_ts: 2022-01-08 00:00:00
+ --> self.current_ts: 2022-01-09 00:00:00
+ --> self.current_ts: 2022-01-10 00:00:00
+ --> self.current_ts: 2022-01-11 00:00:00
+ --> self.current_ts: 2022-01-12 00:00:00
+ --> self.current_ts: 2022-01-13 00:00:00
+ --> self.current_ts: 2022-01-14 00:00:00
+ --> self.current_ts: 2022-01-15 00:00:00
+ --> self.current_ts: 2022-01-16 00:00:00
+ --> self.current_ts: 2022-01-17 00:00:00
+ --> self.current_ts: 2022-01-18 00:00:00
+ --> self.current_ts: 2022-01-19 00:00:00
+Sell: 22.971799411762543
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-01-19 2022-01-19  347.236664  ...  350.436713    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-01-20 00:00:00
+ --> self.current_ts: 2022-01-21 00:00:00
+ --> self.current_ts: 2022-01-22 00:00:00
+ --> self.current_ts: 2022-01-23 00:00:00
+ --> self.current_ts: 2022-01-24 00:00:00
+ --> self.current_ts: 2022-01-25 00:00:00
+ --> self.current_ts: 2022-01-26 00:00:00
+ --> self.current_ts: 2022-01-27 00:00:00
+ --> self.current_ts: 2022-01-28 00:00:00
+ --> self.current_ts: 2022-01-29 00:00:00
+ --> self.current_ts: 2022-01-30 00:00:00
+ --> self.current_ts: 2022-01-31 00:00:00
+ --> self.current_ts: 2022-02-01 00:00:00
+ --> self.current_ts: 2022-02-02 00:00:00
+ --> self.current_ts: 2022-02-03 00:00:00
+ --> self.current_ts: 2022-02-04 00:00:00
+ --> self.current_ts: 2022-02-05 00:00:00
+ --> self.current_ts: 2022-02-06 00:00:00
+ --> self.current_ts: 2022-02-07 00:00:00
+ --> self.current_ts: 2022-02-08 00:00:00
+ --> self.current_ts: 2022-02-09 00:00:00
+ --> self.current_ts: 2022-02-10 00:00:00
+ --> self.current_ts: 2022-02-11 00:00:00
+ --> self.current_ts: 2022-02-12 00:00:00
+ --> self.current_ts: 2022-02-13 00:00:00
+ --> self.current_ts: 2022-02-14 00:00:00
+ --> self.current_ts: 2022-02-15 00:00:00
+ --> self.current_ts: 2022-02-16 00:00:00
+ --> self.current_ts: 2022-02-17 00:00:00
+ --> self.current_ts: 2022-02-18 00:00:00
+ --> self.current_ts: 2022-02-19 00:00:00
+ --> self.current_ts: 2022-02-20 00:00:00
+ --> self.current_ts: 2022-02-21 00:00:00
+ --> self.current_ts: 2022-02-22 00:00:00
+ --> self.current_ts: 2022-02-23 00:00:00
+ --> self.current_ts: 2022-02-24 00:00:00
+ --> self.current_ts: 2022-02-25 00:00:00
+ --> self.current_ts: 2022-02-26 00:00:00
+ --> self.current_ts: 2022-02-27 00:00:00
+ --> self.current_ts: 2022-02-28 00:00:00
+ --> self.current_ts: 2022-03-01 00:00:00
+ --> self.current_ts: 2022-03-02 00:00:00
+ --> self.current_ts: 2022-03-03 00:00:00
+ --> self.current_ts: 2022-03-04 00:00:00
+ --> self.current_ts: 2022-03-05 00:00:00
+ --> self.current_ts: 2022-03-06 00:00:00
+ --> self.current_ts: 2022-03-07 00:00:00
+ --> self.current_ts: 2022-03-08 00:00:00
+ --> self.current_ts: 2022-03-09 00:00:00
+ --> self.current_ts: 2022-03-10 00:00:00
+ --> self.current_ts: 2022-03-11 00:00:00
+ --> self.current_ts: 2022-03-12 00:00:00
+ --> self.current_ts: 2022-03-13 00:00:00
+ --> self.current_ts: 2022-03-14 00:00:00
+ --> self.current_ts: 2022-03-15 00:00:00
+ --> self.current_ts: 2022-03-16 00:00:00
+ --> self.current_ts: 2022-03-17 00:00:00
+ --> self.current_ts: 2022-03-18 00:00:00
+ --> self.current_ts: 2022-03-19 00:00:00
+ --> self.current_ts: 2022-03-20 00:00:00
+ --> self.current_ts: 2022-03-21 00:00:00
+Buy: 26.758345469305056
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-03-21 2022-03-21  304.993347  ...  285.149935     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-03-22 00:00:00
+ --> self.current_ts: 2022-03-23 00:00:00
+ --> self.current_ts: 2022-03-24 00:00:00
+ --> self.current_ts: 2022-03-25 00:00:00
+ --> self.current_ts: 2022-03-26 00:00:00
+ --> self.current_ts: 2022-03-27 00:00:00
+ --> self.current_ts: 2022-03-28 00:00:00
+ --> self.current_ts: 2022-03-29 00:00:00
+ --> self.current_ts: 2022-03-30 00:00:00
+ --> self.current_ts: 2022-03-31 00:00:00
+ --> self.current_ts: 2022-04-01 00:00:00
+ --> self.current_ts: 2022-04-02 00:00:00
+ --> self.current_ts: 2022-04-03 00:00:00
+ --> self.current_ts: 2022-04-04 00:00:00
+ --> self.current_ts: 2022-04-05 00:00:00
+ --> self.current_ts: 2022-04-06 00:00:00
+ --> self.current_ts: 2022-04-07 00:00:00
+ --> self.current_ts: 2022-04-08 00:00:00
+ --> self.current_ts: 2022-04-09 00:00:00
+ --> self.current_ts: 2022-04-10 00:00:00
+ --> self.current_ts: 2022-04-11 00:00:00
+ --> self.current_ts: 2022-04-12 00:00:00
+ --> self.current_ts: 2022-04-13 00:00:00
+ --> self.current_ts: 2022-04-14 00:00:00
+ --> self.current_ts: 2022-04-15 00:00:00
+ --> self.current_ts: 2022-04-16 00:00:00
+ --> self.current_ts: 2022-04-17 00:00:00
+ --> self.current_ts: 2022-04-18 00:00:00
+ --> self.current_ts: 2022-04-19 00:00:00
+ --> self.current_ts: 2022-04-20 00:00:00
+ --> self.current_ts: 2022-04-21 00:00:00
+ --> self.current_ts: 2022-04-22 00:00:00
+ --> self.current_ts: 2022-04-23 00:00:00
+ --> self.current_ts: 2022-04-24 00:00:00
+ --> self.current_ts: 2022-04-25 00:00:00
+ --> self.current_ts: 2022-04-26 00:00:00
+Sell: 27.663855316353924
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-04-26 2022-04-26  331.809998  ...  330.882387    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-04-27 00:00:00
+ --> self.current_ts: 2022-04-28 00:00:00
+ --> self.current_ts: 2022-04-29 00:00:00
+ --> self.current_ts: 2022-04-30 00:00:00
+ --> self.current_ts: 2022-05-01 00:00:00
+ --> self.current_ts: 2022-05-02 00:00:00
+ --> self.current_ts: 2022-05-03 00:00:00
+ --> self.current_ts: 2022-05-04 00:00:00
+ --> self.current_ts: 2022-05-05 00:00:00
+ --> self.current_ts: 2022-05-06 00:00:00
+ --> self.current_ts: 2022-05-07 00:00:00
+ --> self.current_ts: 2022-05-08 00:00:00
+ --> self.current_ts: 2022-05-09 00:00:00
+ --> self.current_ts: 2022-05-10 00:00:00
+ --> self.current_ts: 2022-05-11 00:00:00
+ --> self.current_ts: 2022-05-12 00:00:00
+ --> self.current_ts: 2022-05-13 00:00:00
+ --> self.current_ts: 2022-05-14 00:00:00
+ --> self.current_ts: 2022-05-15 00:00:00
+ --> self.current_ts: 2022-05-16 00:00:00
+ --> self.current_ts: 2022-05-17 00:00:00
+ --> self.current_ts: 2022-05-18 00:00:00
+ --> self.current_ts: 2022-05-19 00:00:00
+ --> self.current_ts: 2022-05-20 00:00:00
+ --> self.current_ts: 2022-05-21 00:00:00
+ --> self.current_ts: 2022-05-22 00:00:00
+ --> self.current_ts: 2022-05-23 00:00:00
+ --> self.current_ts: 2022-05-24 00:00:00
+ --> self.current_ts: 2022-05-25 00:00:00
+ --> self.current_ts: 2022-05-26 00:00:00
+ --> self.current_ts: 2022-05-27 00:00:00
+ --> self.current_ts: 2022-05-28 00:00:00
+ --> self.current_ts: 2022-05-29 00:00:00
+ --> self.current_ts: 2022-05-30 00:00:00
+ --> self.current_ts: 2022-05-31 00:00:00
+ --> self.current_ts: 2022-06-01 00:00:00
+ --> self.current_ts: 2022-06-02 00:00:00
+ --> self.current_ts: 2022-06-03 00:00:00
+ --> self.current_ts: 2022-06-04 00:00:00
+ --> self.current_ts: 2022-06-05 00:00:00
+ --> self.current_ts: 2022-06-06 00:00:00
+ --> self.current_ts: 2022-06-07 00:00:00
+ --> self.current_ts: 2022-06-08 00:00:00
+ --> self.current_ts: 2022-06-09 00:00:00
+ --> self.current_ts: 2022-06-10 00:00:00
+ --> self.current_ts: 2022-06-11 00:00:00
+ --> self.current_ts: 2022-06-12 00:00:00
+ --> self.current_ts: 2022-06-13 00:00:00
+ --> self.current_ts: 2022-06-14 00:00:00
+ --> self.current_ts: 2022-06-15 00:00:00
+ --> self.current_ts: 2022-06-16 00:00:00
+ --> self.current_ts: 2022-06-17 00:00:00
+ --> self.current_ts: 2022-06-18 00:00:00
+ --> self.current_ts: 2022-06-19 00:00:00
+ --> self.current_ts: 2022-06-20 00:00:00
+ --> self.current_ts: 2022-06-21 00:00:00
+ --> self.current_ts: 2022-06-22 00:00:00
+ --> self.current_ts: 2022-06-23 00:00:00
+ --> self.current_ts: 2022-06-24 00:00:00
+ --> self.current_ts: 2022-06-25 00:00:00
+ --> self.current_ts: 2022-06-26 00:00:00
+ --> self.current_ts: 2022-06-27 00:00:00
+ --> self.current_ts: 2022-06-28 00:00:00
+ --> self.current_ts: 2022-06-29 00:00:00
+ --> self.current_ts: 2022-06-30 00:00:00
+ --> self.current_ts: 2022-07-01 00:00:00
+ --> self.current_ts: 2022-07-02 00:00:00
+ --> self.current_ts: 2022-07-03 00:00:00
+ --> self.current_ts: 2022-07-04 00:00:00
+ --> self.current_ts: 2022-07-05 00:00:00
+ --> self.current_ts: 2022-07-06 00:00:00
+ --> self.current_ts: 2022-07-07 00:00:00
+ --> self.current_ts: 2022-07-08 00:00:00
+Buy: 25.775946820554612
+     open_time close_time        Open  ...   ema_slow  uptrend  downtrend
+299 2022-07-08 2022-07-08  242.333328  ...  236.53019     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-07-09 00:00:00
+Buy: 25.762004597615356
+     open_time close_time        Open  ...   ema_slow  uptrend  downtrend
+299 2022-07-08 2022-07-08  242.333328  ...  236.53019     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-07-10 00:00:00
+Buy: 25.76200459761536
+     open_time close_time        Open  ...   ema_slow  uptrend  downtrend
+299 2022-07-08 2022-07-08  242.333328  ...  236.53019     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-07-11 00:00:00
+ --> self.current_ts: 2022-07-12 00:00:00
+Sell: 24.505262690128564
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-07-12 2022-07-12  236.846664  ...  236.012212    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-07-13 00:00:00
+Buy: 26.369303432596706
+     open_time close_time   Open  ...    ema_slow  uptrend  downtrend
+299 2022-07-13 2022-07-13  225.5  ...  236.110096     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-07-14 00:00:00
+ --> self.current_ts: 2022-07-15 00:00:00
+ --> self.current_ts: 2022-07-16 00:00:00
+ --> self.current_ts: 2022-07-17 00:00:00
+ --> self.current_ts: 2022-07-18 00:00:00
+ --> self.current_ts: 2022-07-19 00:00:00
+ --> self.current_ts: 2022-07-20 00:00:00
+ --> self.current_ts: 2022-07-21 00:00:00
+ --> self.current_ts: 2022-07-22 00:00:00
+ --> self.current_ts: 2022-07-23 00:00:00
+ --> self.current_ts: 2022-07-24 00:00:00
+ --> self.current_ts: 2022-07-25 00:00:00
+ --> self.current_ts: 2022-07-26 00:00:00
+ --> self.current_ts: 2022-07-27 00:00:00
+ --> self.current_ts: 2022-07-28 00:00:00
+ --> self.current_ts: 2022-07-29 00:00:00
+ --> self.current_ts: 2022-07-30 00:00:00
+ --> self.current_ts: 2022-07-31 00:00:00
+ --> self.current_ts: 2022-08-01 00:00:00
+ --> self.current_ts: 2022-08-02 00:00:00
+ --> self.current_ts: 2022-08-03 00:00:00
+ --> self.current_ts: 2022-08-04 00:00:00
+ --> self.current_ts: 2022-08-05 00:00:00
+ --> self.current_ts: 2022-08-06 00:00:00
+ --> self.current_ts: 2022-08-07 00:00:00
+ --> self.current_ts: 2022-08-08 00:00:00
+ --> self.current_ts: 2022-08-09 00:00:00
+ --> self.current_ts: 2022-08-10 00:00:00
+ --> self.current_ts: 2022-08-11 00:00:00
+ --> self.current_ts: 2022-08-12 00:00:00
+ --> self.current_ts: 2022-08-13 00:00:00
+ --> self.current_ts: 2022-08-14 00:00:00
+ --> self.current_ts: 2022-08-15 00:00:00
+ --> self.current_ts: 2022-08-16 00:00:00
+ --> self.current_ts: 2022-08-17 00:00:00
+ --> self.current_ts: 2022-08-18 00:00:00
+ --> self.current_ts: 2022-08-19 00:00:00
+ --> self.current_ts: 2022-08-20 00:00:00
+ --> self.current_ts: 2022-08-21 00:00:00
+ --> self.current_ts: 2022-08-22 00:00:00
+ --> self.current_ts: 2022-08-23 00:00:00
+ --> self.current_ts: 2022-08-24 00:00:00
+ --> self.current_ts: 2022-08-25 00:00:00
+ --> self.current_ts: 2022-08-26 00:00:00
+ --> self.current_ts: 2022-08-27 00:00:00
+ --> self.current_ts: 2022-08-28 00:00:00
+ --> self.current_ts: 2022-08-29 00:00:00
+ --> self.current_ts: 2022-08-30 00:00:00
+ --> self.current_ts: 2022-08-31 00:00:00
+Sell: 42.50838100539849
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-08-31 2022-08-31  280.619995  ...  288.096754    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-09-01 00:00:00
+ --> self.current_ts: 2022-09-02 00:00:00
+ --> self.current_ts: 2022-09-03 00:00:00
+ --> self.current_ts: 2022-09-04 00:00:00
+ --> self.current_ts: 2022-09-05 00:00:00
+ --> self.current_ts: 2022-09-06 00:00:00
+ --> self.current_ts: 2022-09-07 00:00:00
+ --> self.current_ts: 2022-09-08 00:00:00
+ --> self.current_ts: 2022-09-09 00:00:00
+ --> self.current_ts: 2022-09-10 00:00:00
+ --> self.current_ts: 2022-09-11 00:00:00
+ --> self.current_ts: 2022-09-12 00:00:00
+Buy: 53.828041227458385
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-09-12 2022-09-12  300.720001  ...  287.953031     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-09-13 00:00:00
+ --> self.current_ts: 2022-09-14 00:00:00
+ --> self.current_ts: 2022-09-15 00:00:00
+ --> self.current_ts: 2022-09-16 00:00:00
+ --> self.current_ts: 2022-09-17 00:00:00
+ --> self.current_ts: 2022-09-18 00:00:00
+ --> self.current_ts: 2022-09-19 00:00:00
+ --> self.current_ts: 2022-09-20 00:00:00
+ --> self.current_ts: 2022-09-21 00:00:00
+ --> self.current_ts: 2022-09-22 00:00:00
+ --> self.current_ts: 2022-09-23 00:00:00
+ --> self.current_ts: 2022-09-24 00:00:00
+ --> self.current_ts: 2022-09-25 00:00:00
+ --> self.current_ts: 2022-09-26 00:00:00
+Sell: 43.16154517469766
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2022-09-26 2022-09-26  271.829987  ...  291.568448    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2022-09-27 00:00:00
+ --> self.current_ts: 2022-09-28 00:00:00
+ --> self.current_ts: 2022-09-29 00:00:00
+ --> self.current_ts: 2022-09-30 00:00:00
+ --> self.current_ts: 2022-10-01 00:00:00
+ --> self.current_ts: 2022-10-02 00:00:00
+ --> self.current_ts: 2022-10-03 00:00:00
+ --> self.current_ts: 2022-10-04 00:00:00
+ --> self.current_ts: 2022-10-05 00:00:00
+ --> self.current_ts: 2022-10-06 00:00:00
+ --> self.current_ts: 2022-10-07 00:00:00
+ --> self.current_ts: 2022-10-08 00:00:00
+ --> self.current_ts: 2022-10-09 00:00:00
+ --> self.current_ts: 2022-10-10 00:00:00
+ --> self.current_ts: 2022-10-11 00:00:00
+ --> self.current_ts: 2022-10-12 00:00:00
+ --> self.current_ts: 2022-10-13 00:00:00
+ --> self.current_ts: 2022-10-14 00:00:00
+ --> self.current_ts: 2022-10-15 00:00:00
+ --> self.current_ts: 2022-10-16 00:00:00
+ --> self.current_ts: 2022-10-17 00:00:00
+ --> self.current_ts: 2022-10-18 00:00:00
+ --> self.current_ts: 2022-10-19 00:00:00
+ --> self.current_ts: 2022-10-20 00:00:00
+ --> self.current_ts: 2022-10-21 00:00:00
+ --> self.current_ts: 2022-10-22 00:00:00
+ --> self.current_ts: 2022-10-23 00:00:00
+ --> self.current_ts: 2022-10-24 00:00:00
+ --> self.current_ts: 2022-10-25 00:00:00
+ --> self.current_ts: 2022-10-26 00:00:00
+ --> self.current_ts: 2022-10-27 00:00:00
+ --> self.current_ts: 2022-10-28 00:00:00
+ --> self.current_ts: 2022-10-29 00:00:00
+ --> self.current_ts: 2022-10-30 00:00:00
+ --> self.current_ts: 2022-10-31 00:00:00
+ --> self.current_ts: 2022-11-01 00:00:00
+ --> self.current_ts: 2022-11-02 00:00:00
+ --> self.current_ts: 2022-11-03 00:00:00
+ --> self.current_ts: 2022-11-04 00:00:00
+ --> self.current_ts: 2022-11-05 00:00:00
+ --> self.current_ts: 2022-11-06 00:00:00
+ --> self.current_ts: 2022-11-07 00:00:00
+ --> self.current_ts: 2022-11-08 00:00:00
+ --> self.current_ts: 2022-11-09 00:00:00
+ --> self.current_ts: 2022-11-10 00:00:00
+ --> self.current_ts: 2022-11-11 00:00:00
+ --> self.current_ts: 2022-11-12 00:00:00
+ --> self.current_ts: 2022-11-13 00:00:00
+ --> self.current_ts: 2022-11-14 00:00:00
+ --> self.current_ts: 2022-11-15 00:00:00
+ --> self.current_ts: 2022-11-16 00:00:00
+ --> self.current_ts: 2022-11-17 00:00:00
+ --> self.current_ts: 2022-11-18 00:00:00
+ --> self.current_ts: 2022-11-19 00:00:00
+ --> self.current_ts: 2022-11-20 00:00:00
+ --> self.current_ts: 2022-11-21 00:00:00
+ --> self.current_ts: 2022-11-22 00:00:00
+ --> self.current_ts: 2022-11-23 00:00:00
+ --> self.current_ts: 2022-11-24 00:00:00
+ --> self.current_ts: 2022-11-25 00:00:00
+ --> self.current_ts: 2022-11-26 00:00:00
+ --> self.current_ts: 2022-11-27 00:00:00
+ --> self.current_ts: 2022-11-28 00:00:00
+ --> self.current_ts: 2022-11-29 00:00:00
+ --> self.current_ts: 2022-11-30 00:00:00
+ --> self.current_ts: 2022-12-01 00:00:00
+ --> self.current_ts: 2022-12-02 00:00:00
+ --> self.current_ts: 2022-12-03 00:00:00
+ --> self.current_ts: 2022-12-04 00:00:00
+ --> self.current_ts: 2022-12-05 00:00:00
+ --> self.current_ts: 2022-12-06 00:00:00
+ --> self.current_ts: 2022-12-07 00:00:00
+ --> self.current_ts: 2022-12-08 00:00:00
+ --> self.current_ts: 2022-12-09 00:00:00
+ --> self.current_ts: 2022-12-10 00:00:00
+ --> self.current_ts: 2022-12-11 00:00:00
+ --> self.current_ts: 2022-12-12 00:00:00
+ --> self.current_ts: 2022-12-13 00:00:00
+ --> self.current_ts: 2022-12-14 00:00:00
+ --> self.current_ts: 2022-12-15 00:00:00
+ --> self.current_ts: 2022-12-16 00:00:00
+ --> self.current_ts: 2022-12-17 00:00:00
+ --> self.current_ts: 2022-12-18 00:00:00
+ --> self.current_ts: 2022-12-19 00:00:00
+ --> self.current_ts: 2022-12-20 00:00:00
+ --> self.current_ts: 2022-12-21 00:00:00
+ --> self.current_ts: 2022-12-22 00:00:00
+ --> self.current_ts: 2022-12-23 00:00:00
+ --> self.current_ts: 2022-12-24 00:00:00
+ --> self.current_ts: 2022-12-25 00:00:00
+ --> self.current_ts: 2022-12-26 00:00:00
+ --> self.current_ts: 2022-12-27 00:00:00
+ --> self.current_ts: 2022-12-28 00:00:00
+ --> self.current_ts: 2022-12-29 00:00:00
+ --> self.current_ts: 2022-12-30 00:00:00
+ --> self.current_ts: 2022-12-31 00:00:00
+ --> self.current_ts: 2023-01-01 00:00:00
+ --> self.current_ts: 2023-01-02 00:00:00
+ --> self.current_ts: 2023-01-03 00:00:00
+ --> self.current_ts: 2023-01-04 00:00:00
+ --> self.current_ts: 2023-01-05 00:00:00
+ --> self.current_ts: 2023-01-06 00:00:00
+ --> self.current_ts: 2023-01-07 00:00:00
+ --> self.current_ts: 2023-01-08 00:00:00
+ --> self.current_ts: 2023-01-09 00:00:00
+ --> self.current_ts: 2023-01-10 00:00:00
+ --> self.current_ts: 2023-01-11 00:00:00
+ --> self.current_ts: 2023-01-12 00:00:00
+ --> self.current_ts: 2023-01-13 00:00:00
+ --> self.current_ts: 2023-01-14 00:00:00
+ --> self.current_ts: 2023-01-15 00:00:00
+ --> self.current_ts: 2023-01-16 00:00:00
+ --> self.current_ts: 2023-01-17 00:00:00
+ --> self.current_ts: 2023-01-18 00:00:00
+ --> self.current_ts: 2023-01-19 00:00:00
+ --> self.current_ts: 2023-01-20 00:00:00
+ --> self.current_ts: 2023-01-21 00:00:00
+ --> self.current_ts: 2023-01-22 00:00:00
+ --> self.current_ts: 2023-01-23 00:00:00
+ --> self.current_ts: 2023-01-24 00:00:00
+ --> self.current_ts: 2023-01-25 00:00:00
+Buy: 20.44527847976291
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2023-01-25 2023-01-25  141.910004  ...  133.300559     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2023-01-26 00:00:00
+ --> self.current_ts: 2023-01-27 00:00:00
+ --> self.current_ts: 2023-01-28 00:00:00
+ --> self.current_ts: 2023-01-29 00:00:00
+ --> self.current_ts: 2023-01-30 00:00:00
+ --> self.current_ts: 2023-01-31 00:00:00
+ --> self.current_ts: 2023-02-01 00:00:00
+ --> self.current_ts: 2023-02-02 00:00:00
+ --> self.current_ts: 2023-02-03 00:00:00
+ --> self.current_ts: 2023-02-04 00:00:00
+ --> self.current_ts: 2023-02-05 00:00:00
+ --> self.current_ts: 2023-02-06 00:00:00
+ --> self.current_ts: 2023-02-07 00:00:00
+ --> self.current_ts: 2023-02-08 00:00:00
+ --> self.current_ts: 2023-02-09 00:00:00
+ --> self.current_ts: 2023-02-10 00:00:00
+ --> self.current_ts: 2023-02-11 00:00:00
+ --> self.current_ts: 2023-02-12 00:00:00
+ --> self.current_ts: 2023-02-13 00:00:00
+ --> self.current_ts: 2023-02-14 00:00:00
+ --> self.current_ts: 2023-02-15 00:00:00
+ --> self.current_ts: 2023-02-16 00:00:00
+ --> self.current_ts: 2023-02-17 00:00:00
+ --> self.current_ts: 2023-02-18 00:00:00
+ --> self.current_ts: 2023-02-19 00:00:00
+ --> self.current_ts: 2023-02-20 00:00:00
+ --> self.current_ts: 2023-02-21 00:00:00
+ --> self.current_ts: 2023-02-22 00:00:00
+ --> self.current_ts: 2023-02-23 00:00:00
+ --> self.current_ts: 2023-02-24 00:00:00
+ --> self.current_ts: 2023-02-25 00:00:00
+ --> self.current_ts: 2023-02-26 00:00:00
+ --> self.current_ts: 2023-02-27 00:00:00
+ --> self.current_ts: 2023-02-28 00:00:00
+ --> self.current_ts: 2023-03-01 00:00:00
+ --> self.current_ts: 2023-03-02 00:00:00
+ --> self.current_ts: 2023-03-03 00:00:00
+ --> self.current_ts: 2023-03-04 00:00:00
+ --> self.current_ts: 2023-03-05 00:00:00
+ --> self.current_ts: 2023-03-06 00:00:00
+ --> self.current_ts: 2023-03-07 00:00:00
+ --> self.current_ts: 2023-03-08 00:00:00
+ --> self.current_ts: 2023-03-09 00:00:00
+Sell: 28.646667923019944
+     open_time close_time    Open  ...    ema_slow  uptrend  downtrend
+299 2023-03-09 2023-03-09  180.25  ...  190.691275    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2023-03-10 00:00:00
+ --> self.current_ts: 2023-03-11 00:00:00
+ --> self.current_ts: 2023-03-12 00:00:00
+ --> self.current_ts: 2023-03-13 00:00:00
+ --> self.current_ts: 2023-03-14 00:00:00
+ --> self.current_ts: 2023-03-15 00:00:00
+ --> self.current_ts: 2023-03-16 00:00:00
+ --> self.current_ts: 2023-03-17 00:00:00
+ --> self.current_ts: 2023-03-18 00:00:00
+ --> self.current_ts: 2023-03-19 00:00:00
+ --> self.current_ts: 2023-03-20 00:00:00
+ --> self.current_ts: 2023-03-21 00:00:00
+ --> self.current_ts: 2023-03-22 00:00:00
+ --> self.current_ts: 2023-03-23 00:00:00
+Buy: 31.30435974025813
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2023-03-23 2023-03-23  195.259995  ...  187.588686     True      False
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2023-03-24 00:00:00
+ --> self.current_ts: 2023-03-25 00:00:00
+ --> self.current_ts: 2023-03-26 00:00:00
+ --> self.current_ts: 2023-03-27 00:00:00
+ --> self.current_ts: 2023-03-28 00:00:00
+ --> self.current_ts: 2023-03-29 00:00:00
+ --> self.current_ts: 2023-03-30 00:00:00
+ --> self.current_ts: 2023-03-31 00:00:00
+ --> self.current_ts: 2023-04-01 00:00:00
+ --> self.current_ts: 2023-04-02 00:00:00
+ --> self.current_ts: 2023-04-03 00:00:00
+ --> self.current_ts: 2023-04-04 00:00:00
+ --> self.current_ts: 2023-04-05 00:00:00
+ --> self.current_ts: 2023-04-06 00:00:00
+ --> self.current_ts: 2023-04-07 00:00:00
+ --> self.current_ts: 2023-04-08 00:00:00
+ --> self.current_ts: 2023-04-09 00:00:00
+ --> self.current_ts: 2023-04-10 00:00:00
+Sell: 33.804659251862006
+     open_time close_time        Open  ...    ema_slow  uptrend  downtrend
+299 2023-04-10 2023-04-10  179.940002  ...  189.903814    False       True
+
+[1 rows x 12 columns]
+ --> self.current_ts: 2023-04-11 00:00:00
+ --> self.current_ts: 2023-04-12 00:00:00
+ --> self.current_ts: 2023-04-13 00:00:00
+ --> self.current_ts: 2023-04-14 00:00:00
+ --> self.current_ts: 2023-04-15 00:00:00
+ --> self.current_ts: 2023-04-16 00:00:00
+ --> self.current_ts: 2023-04-17 00:00:00
+ --> self.current_ts: 2023-04-18 00:00:00
+ --> self.current_ts: 2023-04-19 00:00:00
+ --> self.current_ts: 2023-04-20 00:00:00
+ --> self.current_ts: 2023-04-21 00:00:00
+ --> self.current_ts: 2023-04-22 00:00:00
+ --> self.current_ts: 2023-04-23 00:00:00
+ --> self.current_ts: 2023-04-24 00:00:00
+ --> self.current_ts: 2023-04-25 00:00:00
+ --> self.current_ts: 2023-04-26 00:00:00
+ --> self.current_ts: 2023-04-27 00:00:00
+ --> self.current_ts: 2023-04-28 00:00:00
+ --> self.current_ts: 2023-04-29 00:00:00
+ --> self.current_ts: 2023-04-30 00:00:00
+
+----- BACKTEST RESULTS -----
+Sharpe Ratio: 0.54
+Sortino Ratio: 0.56
+Max Drawdown: 9.4%
+
+Global win rate: 38.24%
+Global average gain: 30.77%
+Global average loss: -9.12%
+Global Expected Return: 6.13%
+
+Long win rate: 27.27%
+Long average gain: 62.71%
+Long average loss: -7.74%
+Long Expected Return: 11.47%
+
+Short win rate: 48.57%
+Short average gain: 13.86%
+Short average loss: -10.97%
+Short Expected Return: 1.09%
+----------------------------
